@@ -1,0 +1,651 @@
+040000|fr|fr|wavs/common_voice_fr_17778601.wav|spectrograms\040000.npy|linear_spectrograms\040000.npy|Il n'y a aucun livre sur la table.|
+039999|fr|fr|wavs/common_voice_fr_17778602.wav|spectrograms\039999.npy|linear_spectrograms\039999.npy|Et il m'a plac̩ ici dans cette mairie comme gar̤on de salle.|
+039998|fr|fr|wavs/common_voice_fr_17778603.wav|spectrograms\039998.npy|linear_spectrograms\039998.npy|C'est l�۪amendement du groupe socialiste qui a ̩t̩ adopt̩.|
+039997|fr|fr|wavs/common_voice_fr_17778604.wav|spectrograms\039997.npy|linear_spectrograms\039997.npy|Vingt-deux maisons blanches.|
+039996|fr|fr|wavs/common_voice_fr_17778606.wav|spectrograms\039996.npy|linear_spectrograms\039996.npy|Elle participe pourtant �� cette r̩flexion.|
+039995|fr|fr|wavs/common_voice_fr_17778607.wav|spectrograms\039995.npy|linear_spectrograms\039995.npy|Rue de Libernon Cr̩cy-la-Chapelle|
+039994|fr|fr|wavs/common_voice_fr_17778608.wav|spectrograms\039994.npy|linear_spectrograms\039994.npy|Tu es s��r que j'aimerai.|
+039993|fr|fr|wavs/common_voice_fr_17778610.wav|spectrograms\039993.npy|linear_spectrograms\039993.npy|L'on convenait que partout les inspir̩s obtenaient le succ̬s d'une r̩forme morale.|
+039992|fr|fr|wavs/common_voice_fr_17778611.wav|spectrograms\039992.npy|linear_spectrograms\039992.npy|Rue de Sarre-Union Schopperten|
+039991|fr|fr|wavs/common_voice_fr_17778612.wav|spectrograms\039991.npy|linear_spectrograms\039991.npy| Un ciel tr̬s pur cribl̩ d'̩toiles ̩clairait la terre d'une clart̩ bleue de cr̩puscule.|
+039990|fr|fr|wavs/common_voice_fr_17778613.wav|spectrograms\039990.npy|linear_spectrograms\039990.npy|Ce restaurant n'est pas cher.|
+039989|fr|fr|wavs/common_voice_fr_17778614.wav|spectrograms\039989.npy|linear_spectrograms\039989.npy|et quatre cent dix-neuf pp.|
+039988|fr|fr|wavs/common_voice_fr_17778615.wav|spectrograms\039988.npy|linear_spectrograms\039988.npy|Je continuai mon travail.|
+039987|fr|fr|wavs/common_voice_fr_17778616.wav|spectrograms\039987.npy|linear_spectrograms\039987.npy|Chemin du Coustalat �� Coarraze|
+039986|fr|fr|wavs/common_voice_fr_17778617.wav|spectrograms\039986.npy|linear_spectrograms\039986.npy|Monsieur murmura-t-il Monsieur de Crillon m'en a parl̩ quelquefois.|
+039985|fr|fr|wavs/common_voice_fr_17778618.wav|spectrograms\039985.npy|linear_spectrograms\039985.npy|Chemin de Caraghja vingt six cents Furiani|
+039984|fr|fr|wavs/common_voice_fr_17778619.wav|spectrograms\039984.npy|linear_spectrograms\039984.npy|Le d̩but du mois d'ao��t.|
+039983|fr|fr|wavs/common_voice_fr_17778620.wav|spectrograms\039983.npy|linear_spectrograms\039983.npy|deux rue Louis Mennessier z̩ro deux deux cent cinquante �� Thiernu|
+039982|fr|fr|wavs/common_voice_fr_17778621.wav|spectrograms\039982.npy|linear_spectrograms\039982.npy|Une exon̩ration du biom̩thane est donc possible sans alourdir la proc̩dure administrative.|
+039981|fr|fr|wavs/common_voice_fr_17778622.wav|spectrograms\039981.npy|linear_spectrograms\039981.npy|trente-trois BIS rue du Colonel Rabier cinquante-huit mille deux cents Cosne-Cours-sur-Loire|
+039980|fr|fr|wavs/common_voice_fr_17778623.wav|spectrograms\039980.npy|linear_spectrograms\039980.npy|Cela recouvre les dispositions propos̩es.|
+039979|fr|fr|wavs/common_voice_fr_17778624.wav|spectrograms\039979.npy|linear_spectrograms\039979.npy|La parole est �� Monsieur Jean-Marie Tetart pour soutenir l'amendement num̩ro cent soixante-huit.|
+039978|fr|fr|wavs/common_voice_fr_17778625.wav|spectrograms\039978.npy|linear_spectrograms\039978.npy|Rue du G̩n̩ral Custine cinquante-quatre mille Nancy|
+039977|fr|fr|wavs/common_voice_fr_17778626.wav|spectrograms\039977.npy|linear_spectrograms\039977.npy|Mayenne avait eu la pluie toute la nuit.|
+039976|fr|fr|wavs/common_voice_fr_17778627.wav|spectrograms\039976.npy|linear_spectrograms\039976.npy|Est-ce que ces choses sont des livres?|
+039975|fr|fr|wavs/common_voice_fr_17778628.wav|spectrograms\039975.npy|linear_spectrograms\039975.npy|Rue du Champ Beaumont soixante et un mille Saint-Germain-du-Corb̩is|
+039974|fr|fr|wavs/common_voice_fr_17778629.wav|spectrograms\039974.npy|linear_spectrograms\039974.npy|Philtre inexpliqu̩ . illusion peut-̻tre . ivresse �� coup s��r.|
+039973|fr|fr|wavs/common_voice_fr_17778630.wav|spectrograms\039973.npy|linear_spectrograms\039973.npy|Il s'agit du rapport dont parlait Monsieur le ministre.|
+039972|fr|fr|wavs/common_voice_fr_17778631.wav|spectrograms\039972.npy|linear_spectrograms\039972.npy|Il n'y a pas lieu de cr̩er un cas particulier pour les chemins ruraux.|
+039971|fr|fr|wavs/common_voice_fr_17778642.wav|spectrograms\039971.npy|linear_spectrograms\039971.npy|Est-ce bien possible! oh! ma m̬re Comme je te calomniais!|
+039970|fr|fr|wavs/common_voice_fr_17778643.wav|spectrograms\039970.npy|linear_spectrograms\039970.npy|Jamais on ne me fera croire dit Ned Land que de tels animaux existent.|
+039969|fr|fr|wavs/common_voice_fr_17778644.wav|spectrograms\039969.npy|linear_spectrograms\039969.npy|Route du Caloy quarante z̩ro quatre-vingt-dix Lucbardez-et-Bargues|
+039968|fr|fr|wavs/common_voice_fr_17778648.wav|spectrograms\039968.npy|linear_spectrograms\039968.npy|trois rue des Crais|
+039967|fr|fr|wavs/common_voice_fr_17778649.wav|spectrograms\039967.npy|linear_spectrograms\039967.npy|La parole est �� Madame Mich̬le Delaunay rapporteure pour soutenir l'amendement num̩ro cent cinquante-trois.|
+039966|fr|fr|wavs/common_voice_fr_17778651.wav|spectrograms\039966.npy|linear_spectrograms\039966.npy|Nous ̩tions all̩s au cin̩ma parce qu'il pleuvait.|
+039965|fr|fr|wavs/common_voice_fr_17778652.wav|spectrograms\039965.npy|linear_spectrograms\039965.npy|Je vais vous l'apportasser!|
+039964|fr|fr|wavs/common_voice_fr_17778653.wav|spectrograms\039964.npy|linear_spectrograms\039964.npy|Les loups effectuent chaque jour quatre-vingts �� cent kilom̬tres de d̩placement.|
+039963|fr|fr|wavs/common_voice_fr_17778654.wav|spectrograms\039963.npy|linear_spectrograms\039963.npy|C'est ̤a monsieur d̩p̻chez-vous!|
+039962|fr|fr|wavs/common_voice_fr_17778655.wav|spectrograms\039962.npy|linear_spectrograms\039962.npy|Boulevard Henri Poincar̩ au num̩ro quatre|
+039961|fr|fr|wavs/common_voice_fr_17778656.wav|spectrograms\039961.npy|linear_spectrograms\039961.npy|Il est de mon cercle dit un autre.|
+039960|fr|fr|wavs/common_voice_fr_17778697.wav|spectrograms\039960.npy|linear_spectrograms\039960.npy|cinquante-deux mont̩e des Arbousiers quatre-vingt-trois mille neuf cent quatre-vingts Le Lavandou|
+039959|fr|fr|wavs/common_voice_fr_17778699.wav|spectrograms\039959.npy|linear_spectrograms\039959.npy|Boulevard de la Capelle douze mille cent Millau|
+039958|fr|fr|wavs/common_voice_fr_17778700.wav|spectrograms\039958.npy|linear_spectrograms\039958.npy|Horrifi̩s courrouc̩s ils jetaient �� l'ennemi des regards farouches.|
+039957|fr|fr|wavs/common_voice_fr_17778701.wav|spectrograms\039957.npy|linear_spectrograms\039957.npy|La parole est �� Monsieur Denys Robiliard pour soutenir l'amendement num̩ro cent un.|
+039956|fr|fr|wavs/common_voice_fr_17778702.wav|spectrograms\039956.npy|linear_spectrograms\039956.npy|La grandeur est dans les types.|
+039955|fr|fr|wavs/common_voice_fr_17778703.wav|spectrograms\039955.npy|linear_spectrograms\039955.npy|C'est un amendement de pr̩cision juridique.|
+039954|fr|fr|wavs/common_voice_fr_17778704.wav|spectrograms\039954.npy|linear_spectrograms\039954.npy|De fait la r̩partition sur le territoire n'est pas homog̬ne.|
+039953|fr|fr|wavs/common_voice_fr_17778706.wav|spectrograms\039953.npy|linear_spectrograms\039953.npy|Rue de Saint-Eusebe soixante et onze quatre cent cinquante Blanzy|
+039952|fr|fr|wavs/common_voice_fr_17778707.wav|spectrograms\039952.npy|linear_spectrograms\039952.npy|Or il est cinq heures pr̩cis̩ment et quelques minutes maintenant.|
+039951|fr|fr|wavs/common_voice_fr_17778708.wav|spectrograms\039951.npy|linear_spectrograms\039951.npy|Sa maison de Ch̢tillon fut prise et pill̩e.|
+039950|fr|fr|wavs/common_voice_fr_17778709.wav|spectrograms\039950.npy|linear_spectrograms\039950.npy|C'est un sujet que j�۪ai d̩j�� abord̩ avec vous en commission monsieur Vallaud.|
+039949|fr|fr|wavs/common_voice_fr_17778710.wav|spectrograms\039949.npy|linear_spectrograms\039949.npy|Le mari fait mettre le cercueil sur un radeau et s'y embarque aussi.|
+039948|fr|fr|wavs/common_voice_fr_17778711.wav|spectrograms\039948.npy|linear_spectrograms\039948.npy|vingt-deux rue de Lozier trente-cinq quatre cents Saint-Malo|
+039947|fr|fr|wavs/common_voice_fr_17778712.wav|spectrograms\039947.npy|linear_spectrograms\039947.npy|Quel est l'avis du Gouvernement? Cet amendement est bienvenu.|
+039946|fr|fr|wavs/common_voice_fr_17778714.wav|spectrograms\039946.npy|linear_spectrograms\039946.npy|On sonne au t̩l̩phone.|
+039945|fr|fr|wavs/common_voice_fr_17778715.wav|spectrograms\039945.npy|linear_spectrograms\039945.npy|Tu apprends bien tes le̤ons.|
+039944|fr|fr|wavs/common_voice_fr_17778716.wav|spectrograms\039944.npy|linear_spectrograms\039944.npy|deux route du Circuit du Tr̩gor vingt-neuf six cent trente Plougasnou|
+039943|fr|fr|wavs/common_voice_fr_17778717.wav|spectrograms\039943.npy|linear_spectrograms\039943.npy|Il y a des concerts?|
+039942|fr|fr|wavs/common_voice_fr_17778718.wav|spectrograms\039942.npy|linear_spectrograms\039942.npy|Quelqu'un qui l'e��t vue un quart d'heure auparavant n'y e��t rien compris.|
+039941|fr|fr|wavs/common_voice_fr_17778719.wav|spectrograms\039941.npy|linear_spectrograms\039941.npy|Aur̩lie Briat - vingt-deux ans - taille d'un m̬tre cinquante|
+039940|fr|fr|wavs/common_voice_fr_17778720.wav|spectrograms\039940.npy|linear_spectrograms\039940.npy|Nous n'avons organis̩ aucune audition au mois d�۪ao��t bien s��r.|
+039939|fr|fr|wavs/common_voice_fr_17778721.wav|spectrograms\039939.npy|linear_spectrograms\039939.npy|Ni l'��tat ni le pays.|
+039938|fr|fr|wavs/common_voice_fr_17778722.wav|spectrograms\039938.npy|linear_spectrograms\039938.npy|deux cent trente-sept rue Gouas soixante-dix-sept huit cent soixante �� Couilly-Pont-aux-Dames|
+039937|fr|fr|wavs/common_voice_fr_17778723.wav|spectrograms\039937.npy|linear_spectrograms\039937.npy|vingt B chemin de l'Aillerie cinquante mille cinq cents Carentan|
+039936|fr|fr|wavs/common_voice_fr_17778724.wav|spectrograms\039936.npy|linear_spectrograms\039936.npy|Et voil�� que j'avais pris le tramway.|
+039935|fr|fr|wavs/common_voice_fr_17778725.wav|spectrograms\039935.npy|linear_spectrograms\039935.npy|Qui est cette jeune fille?|
+039934|fr|fr|wavs/common_voice_fr_17778726.wav|spectrograms\039934.npy|linear_spectrograms\039934.npy|Comment est-il venu?|
+039933|fr|fr|wavs/common_voice_fr_17778729.wav|spectrograms\039933.npy|linear_spectrograms\039933.npy|Ils sont pieux pour pouvoir s'occuper des affaires de Dieu.|
+039932|fr|fr|wavs/common_voice_fr_17778730.wav|spectrograms\039932.npy|linear_spectrograms\039932.npy|Le RSI est le deuxi̬me r̩gime de protection sociale en France.|
+039931|fr|fr|wavs/common_voice_fr_17778731.wav|spectrograms\039931.npy|linear_spectrograms\039931.npy|C'est un choix politique.|
+039930|fr|fr|wavs/common_voice_fr_17778732.wav|spectrograms\039930.npy|linear_spectrograms\039930.npy|C'est plus respectueux.|
+039929|fr|fr|wavs/common_voice_fr_17778733.wav|spectrograms\039929.npy|linear_spectrograms\039929.npy|R̩gulus demanda: C'est bien ici qu'habite madame Dubois? Oui monsieur.|
+039928|fr|fr|wavs/common_voice_fr_17778734.wav|spectrograms\039928.npy|linear_spectrograms\039928.npy|Comme il faut colmater cette br̬che on ajoute un article.|
+039927|fr|fr|wavs/common_voice_fr_17778735.wav|spectrograms\039927.npy|linear_spectrograms\039927.npy|Voir son compte �� la banque."""" �� Lorin."|
+039926|fr|fr|wavs/common_voice_fr_17778736.wav|spectrograms\039926.npy|linear_spectrograms\039926.npy|Comme il faisait sombre dans la chambre j'allumai la lumi̬re.|
+039925|fr|fr|wavs/common_voice_fr_17778737.wav|spectrograms\039925.npy|linear_spectrograms\039925.npy|Ah ̤�� mais ta bonne qu'est-ce qu'elle fait donc?|
+039924|fr|fr|wavs/common_voice_fr_17778738.wav|spectrograms\039924.npy|linear_spectrograms\039924.npy|Quand on a des taux fixes encore une fois sinon nous rencontrons un obstacle technique.|
+039923|fr|fr|wavs/common_voice_fr_17778739.wav|spectrograms\039923.npy|linear_spectrograms\039923.npy|Rue du Sergent D̩solneux Ermont|
+039922|fr|fr|wavs/common_voice_fr_17778741.wav|spectrograms\039922.npy|linear_spectrograms\039922.npy|Est-ce que tu y tiens?|
+039921|fr|fr|wavs/common_voice_fr_17778742.wav|spectrograms\039921.npy|linear_spectrograms\039921.npy|Le pont la ville et la position d'Ebersberg serons des monumens durables de leur courage.|
+039920|fr|fr|wavs/common_voice_fr_17778743.wav|spectrograms\039920.npy|linear_spectrograms\039920.npy|Rue Comtadine quatre-vingt-quatre cent dix Vaison-la-Romaine|
+039919|fr|fr|wavs/common_voice_fr_17778744.wav|spectrograms\039919.npy|linear_spectrograms\039919.npy|Et au retour vous avez trouv̩ toute pr̻te la maison que vous vous ̩tiez b̢tie.|
+039918|fr|fr|wavs/common_voice_fr_17778745.wav|spectrograms\039918.npy|linear_spectrograms\039918.npy|Je suis s��r que j'aimai.|
+039917|fr|fr|wavs/common_voice_fr_17778746.wav|spectrograms\039917.npy|linear_spectrograms\039917.npy|La parole est �� Monsieur ��ric Diard pour soutenir l'amendement num̩ro cent douze.|
+039916|fr|fr|wavs/common_voice_fr_17778782.wav|spectrograms\039916.npy|linear_spectrograms\039916.npy|Ce serait une aide pour toi.|
+039915|fr|fr|wavs/common_voice_fr_17778783.wav|spectrograms\039915.npy|linear_spectrograms\039915.npy|J'ai besoin de quelques notes sur les Montsorel.|
+039914|fr|fr|wavs/common_voice_fr_17778785.wav|spectrograms\039914.npy|linear_spectrograms\039914.npy|Rue de Ch̩mery Mur-de-Sologne|
+039913|fr|fr|wavs/common_voice_fr_17778786.wav|spectrograms\039913.npy|linear_spectrograms\039913.npy|neuf A route des Aumi̬res douze cent Millau|
+039912|fr|fr|wavs/common_voice_fr_17778788.wav|spectrograms\039912.npy|linear_spectrograms\039912.npy|Il faut lui ouvrir �� deux battants les salons litt̩raires et l'Acad̩mie fran̤aise.|
+039911|fr|fr|wavs/common_voice_fr_18239420.wav|spectrograms\039911.npy|linear_spectrograms\039911.npy|Pourquoi pas?|
+039910|fr|fr|wavs/common_voice_fr_18239421.wav|spectrograms\039910.npy|linear_spectrograms\039910.npy|Rue Heitzler Ren̩ cinquante-sept trois cent quarante Morhange|
+039909|fr|fr|wavs/common_voice_fr_18239422.wav|spectrograms\039909.npy|linear_spectrograms\039909.npy|Tout cela c'est du temps de parole perdu! Je voudrais r̩pondre �� Sergio Coronado.|
+039908|fr|fr|wavs/common_voice_fr_18239423.wav|spectrograms\039908.npy|linear_spectrograms\039908.npy|C'est pourquoi il nous para�?t pr̩cipit̩ de passer de quarante-deux pourcent �� cinquante-cinq pourcent.|
+039907|fr|fr|wavs/common_voice_fr_18239424.wav|spectrograms\039907.npy|linear_spectrograms\039907.npy|quinze avenue Boutroux soixante-quinze z̩ro treize Paris|
+039906|fr|fr|wavs/common_voice_fr_18239435.wav|spectrograms\039906.npy|linear_spectrograms\039906.npy|quatre rue de Gourjade quatre-vingt-un cent �� Castres|
+039905|fr|fr|wavs/common_voice_fr_18239436.wav|spectrograms\039905.npy|linear_spectrograms\039905.npy|Pourquoi moi plut̫t neuf que li?|
+039904|fr|fr|wavs/common_voice_fr_18239437.wav|spectrograms\039904.npy|linear_spectrograms\039904.npy|On ne peut pas l̩gif̩rer dans la pr̩cipitation.|
+039903|fr|fr|wavs/common_voice_fr_18239438.wav|spectrograms\039903.npy|linear_spectrograms\039903.npy|Le D̩fenseur des droits y est du reste tr̬s attentif.|
+039902|fr|fr|wavs/common_voice_fr_18239439.wav|spectrograms\039902.npy|linear_spectrograms\039902.npy|dix-huit rue de Coppegueule quatre-vingt mille cent quarante Saint-L̩ger-sur-Bresle|
+039901|fr|fr|wavs/common_voice_fr_18239450.wav|spectrograms\039901.npy|linear_spectrograms\039901.npy|Il nous faut donc trouver des solutions pour concilier ces deux points de vue.|
+039900|fr|fr|wavs/common_voice_fr_18239451.wav|spectrograms\039900.npy|linear_spectrograms\039900.npy|Avenue de Lod̬ve Cassagnes-B̩gonh̬s|
+039899|fr|fr|wavs/common_voice_fr_18239452.wav|spectrograms\039899.npy|linear_spectrograms\039899.npy|On comprend mieux pourquoi cette loi n'est pas appliqu̩e.|
+039898|fr|fr|wavs/common_voice_fr_18239453.wav|spectrograms\039898.npy|linear_spectrograms\039898.npy|deux cent quarante route de Bunand soixante-treize deux cent quarante �� Avressieux|
+039897|fr|fr|wavs/common_voice_fr_18239454.wav|spectrograms\039897.npy|linear_spectrograms\039897.npy|Il voulait savoir pourquoi sa m̬re l'avait abandonn̩.|
+039896|fr|fr|wavs/common_voice_fr_18239515.wav|spectrograms\039896.npy|linear_spectrograms\039896.npy|Ces deux chandelles ne jetaient aucun rayonnement au dehors.|
+039895|fr|fr|wavs/common_voice_fr_18239517.wav|spectrograms\039895.npy|linear_spectrograms\039895.npy|vingt-cinq rUE CONVALESCENCE BARAKANI quatre-vingt-dix-sept six cent soixante-dix �� Ouangani|
+039894|fr|fr|wavs/common_voice_fr_18239518.wav|spectrograms\039894.npy|linear_spectrograms\039894.npy|Rue Lefroit Dupain �� Bourbonne-les-Bains|
+039893|fr|fr|wavs/common_voice_fr_18239519.wav|spectrograms\039893.npy|linear_spectrograms\039893.npy|Prie ou pense.|
+039892|fr|fr|wavs/common_voice_fr_18239555.wav|spectrograms\039892.npy|linear_spectrograms\039892.npy|Jean. - C'est dr̫le! l��-haut il est charmant.|
+039891|fr|fr|wavs/common_voice_fr_18239556.wav|spectrograms\039891.npy|linear_spectrograms\039891.npy|Route de Cassejoie Faverges-de-la-Tour|
+039890|fr|fr|wavs/common_voice_fr_18239557.wav|spectrograms\039890.npy|linear_spectrograms\039890.npy|Le Conseil constitutionnel a ̩t̩ saisi et il a censur̩ cette disposition.|
+039889|fr|fr|wavs/common_voice_fr_18239558.wav|spectrograms\039889.npy|linear_spectrograms\039889.npy|Rue Cardinal Fesch vingt mille Ajaccio|
+039888|fr|fr|wavs/common_voice_fr_18239559.wav|spectrograms\039888.npy|linear_spectrograms\039888.npy|quatorze rue Muzac|
+039887|fr|fr|wavs/common_voice_fr_18239605.wav|spectrograms\039887.npy|linear_spectrograms\039887.npy|La parole est �� Madame B̩reng̬re Poletti pour soutenir l'amendement num̩ro deux cent soixante-quatre.|
+039886|fr|fr|wavs/common_voice_fr_18239606.wav|spectrograms\039886.npy|linear_spectrograms\039886.npy|Il d̩coule logiquement de mon intervention sur l'article.|
+039885|fr|fr|wavs/common_voice_fr_18239607.wav|spectrograms\039885.npy|linear_spectrograms\039885.npy|�� droite de la chemin̩e un cordon de sonnette.|
+039884|fr|fr|wavs/common_voice_fr_18239608.wav|spectrograms\039884.npy|linear_spectrograms\039884.npy|Ces amendements identiques me semblent sains et protecteurs.|
+039883|fr|fr|wavs/common_voice_fr_18239609.wav|spectrograms\039883.npy|linear_spectrograms\039883.npy|L'��tat ne peut s�۪engager de mani̬re pluriannuelle: il faut un arr̻t̩ budg̩taire annuel.|
+039882|fr|fr|wavs/common_voice_fr_18239631.wav|spectrograms\039882.npy|linear_spectrograms\039882.npy|La parole est �� Monsieur Philippe Le Ray.|
+039881|fr|fr|wavs/common_voice_fr_18239632.wav|spectrograms\039881.npy|linear_spectrograms\039881.npy|Au deuxi̬me acte chanson agrache musique d'Albert Chantrier.|
+039880|fr|fr|wavs/common_voice_fr_18239633.wav|spectrograms\039880.npy|linear_spectrograms\039880.npy|Je suis pas trop conne et pas encore ramollie. Et puis j'ai pas le choix.|
+039879|fr|fr|wavs/common_voice_fr_18239634.wav|spectrograms\039879.npy|linear_spectrograms\039879.npy|Rue des Caboulots �� Tavaux|
+039878|fr|fr|wavs/common_voice_fr_18239635.wav|spectrograms\039878.npy|linear_spectrograms\039878.npy|C'est donc bien vrai que tu veux te marier?|
+039877|fr|fr|wavs/common_voice_fr_18239677.wav|spectrograms\039877.npy|linear_spectrograms\039877.npy|Elle donnait des cours de fran̤ais �� des femmes immigr̩es deux fois par semaine.|
+039876|fr|fr|wavs/common_voice_fr_18239678.wav|spectrograms\039876.npy|linear_spectrograms\039876.npy|Elle reprit: Il ̩tait perdu pour moi.|
+039875|fr|fr|wavs/common_voice_fr_18239680.wav|spectrograms\039875.npy|linear_spectrograms\039875.npy|Hent Bec Kroissen vingt-neuf mille neuf cent cinquante B̩nodet|
+039874|fr|fr|wavs/common_voice_fr_18239682.wav|spectrograms\039874.npy|linear_spectrograms\039874.npy|Je peux vous en dire autant.|
+039873|fr|fr|wavs/common_voice_fr_18239684.wav|spectrograms\039873.npy|linear_spectrograms\039873.npy|Avenue Alfred Motte �� Roubaix|
+039872|fr|fr|wavs/common_voice_fr_18239696.wav|spectrograms\039872.npy|linear_spectrograms\039872.npy|Route de Rivehaute au num̩ro cinq|
+039871|fr|fr|wavs/common_voice_fr_18239697.wav|spectrograms\039871.npy|linear_spectrograms\039871.npy|huit r̩sidence la Paradis soixante-seize mille quatre cent quarante Sommery|
+039870|fr|fr|wavs/common_voice_fr_18239698.wav|spectrograms\039870.npy|linear_spectrograms\039870.npy|Certainement nous n'en sommes pas �� quelques jours pr̬s.|
+039869|fr|fr|wavs/common_voice_fr_18239699.wav|spectrograms\039869.npy|linear_spectrograms\039869.npy|La cour t̢cha de rire|
+039868|fr|fr|wavs/common_voice_fr_18239700.wav|spectrograms\039868.npy|linear_spectrograms\039868.npy|Avenue du Port d'Albret Soustons|
+039867|fr|fr|wavs/common_voice_fr_18239736.wav|spectrograms\039867.npy|linear_spectrograms\039867.npy|(Dupuy et Tenr̩ mille huit cent trente-trois.|
+039866|fr|fr|wavs/common_voice_fr_18239737.wav|spectrograms\039866.npy|linear_spectrograms\039866.npy|Vous ne savez pas o�? c'est?|
+039865|fr|fr|wavs/common_voice_fr_18239738.wav|spectrograms\039865.npy|linear_spectrograms\039865.npy|Ah! c'est un peu fort.|
+039864|fr|fr|wavs/common_voice_fr_18239739.wav|spectrograms\039864.npy|linear_spectrograms\039864.npy|Mais je ne savais pas que vous viendriez je d̩m̩nage.|
+039863|fr|fr|wavs/common_voice_fr_18239740.wav|spectrograms\039863.npy|linear_spectrograms\039863.npy|Chemin de Monte-Carlo �� Furiani|
+039862|fr|fr|wavs/common_voice_fr_18239761.wav|spectrograms\039862.npy|linear_spectrograms\039862.npy|Tu vois qu'il est quelquefois bon de soigner les cochers.|
+039861|fr|fr|wavs/common_voice_fr_18239762.wav|spectrograms\039861.npy|linear_spectrograms\039861.npy|Eh bien moi non plus!|
+039860|fr|fr|wavs/common_voice_fr_18239763.wav|spectrograms\039860.npy|linear_spectrograms\039860.npy|Il y a d'autres grands singes comme les chimpanz̩s et les orangs-outans.|
+039859|fr|fr|wavs/common_voice_fr_18239764.wav|spectrograms\039859.npy|linear_spectrograms\039859.npy|On s'embrasse ̩norm̩ment dans la famille de ma femme!|
+039858|fr|fr|wavs/common_voice_fr_18239765.wav|spectrograms\039858.npy|linear_spectrograms\039858.npy|J'ai bu quelques gorg̩es d�۪eau avant de partir.|
+039857|fr|fr|wavs/common_voice_fr_18239781.wav|spectrograms\039857.npy|linear_spectrograms\039857.npy|Micheline m'a tout dit.|
+039856|fr|fr|wavs/common_voice_fr_18239782.wav|spectrograms\039856.npy|linear_spectrograms\039856.npy|Vachonnet C'est mama . mama .|
+039855|fr|fr|wavs/common_voice_fr_18239783.wav|spectrograms\039855.npy|linear_spectrograms\039855.npy|A huit heures du soir ce pavillon ̩tait occup̩ et les mat̩riaux du pont r̩unis.|
+039854|fr|fr|wavs/common_voice_fr_18239784.wav|spectrograms\039854.npy|linear_spectrograms\039854.npy|Viens donc le voir il est plus triste que jamais!|
+039853|fr|fr|wavs/common_voice_fr_18239785.wav|spectrograms\039853.npy|linear_spectrograms\039853.npy|Marthe �� part. - Oh?|
+039852|fr|fr|wavs/common_voice_fr_18239816.wav|spectrograms\039852.npy|linear_spectrograms\039852.npy|Rue Conen de Pr̩p̩an vingt-deux cinq cent quatre-vingt-dix Pordic|
+039851|fr|fr|wavs/common_voice_fr_18239818.wav|spectrograms\039851.npy|linear_spectrograms\039851.npy|Ton oncle a refus̩ de le voir. et il a bien fait.|
+039850|fr|fr|wavs/common_voice_fr_18239819.wav|spectrograms\039850.npy|linear_spectrograms\039850.npy|Une fois la Mini repartie les deux vieux respir̬rent un bon coup.|
+039849|fr|fr|wavs/common_voice_fr_18239820.wav|spectrograms\039849.npy|linear_spectrograms\039849.npy|La division command̩e par le g̩n̩ral de Wrede se porta sur Neustadt.|
+039848|fr|fr|wavs/common_voice_fr_18239876.wav|spectrograms\039848.npy|linear_spectrograms\039848.npy|Quel est l'avis du Gouvernement? Favorable �� cette mesure de bonne l̩gistique.|
+039847|fr|fr|wavs/common_voice_fr_18239877.wav|spectrograms\039847.npy|linear_spectrograms\039847.npy|C'est ce pr̩judice qui justifie que la r̩gion de d̩part soit interrog̩e.|
+039846|fr|fr|wavs/common_voice_fr_18239878.wav|spectrograms\039846.npy|linear_spectrograms\039846.npy|Mais l'enfance embellit tout et j'aime les enfants.|
+039845|fr|fr|wavs/common_voice_fr_18239879.wav|spectrograms\039845.npy|linear_spectrograms\039845.npy|��a ne peut pourtant pas ̻tre tr̬s parisien.|
+039844|fr|fr|wavs/common_voice_fr_18239880.wav|spectrograms\039844.npy|linear_spectrograms\039844.npy|Ah! oui! ̤a c'est de la veine!|
+039843|fr|fr|wavs/common_voice_fr_18239901.wav|spectrograms\039843.npy|linear_spectrograms\039843.npy|Madame Follentin Marthe Follentin Ensemble Marthe. - Ah! papa! te voil��!|
+039842|fr|fr|wavs/common_voice_fr_18239902.wav|spectrograms\039842.npy|linear_spectrograms\039842.npy|C'est donc cela la r̩alit̩ dont nous parlons.|
+039841|fr|fr|wavs/common_voice_fr_18239903.wav|spectrograms\039841.npy|linear_spectrograms\039841.npy|douze rue Louis Esparre soixante et un cent quarante �� Juvigny-sous-Andaine|
+039840|fr|fr|wavs/common_voice_fr_18239904.wav|spectrograms\039840.npy|linear_spectrograms\039840.npy|Il y a eu bien loin pour moi.|
+039839|fr|fr|wavs/common_voice_fr_18239905.wav|spectrograms\039839.npy|linear_spectrograms\039839.npy|Nous vous le confirmons donc: si ce texte est vot̩ nous saisirons le Conseil constitutionnel.|
+039838|fr|fr|wavs/common_voice_fr_18239916.wav|spectrograms\039838.npy|linear_spectrograms\039838.npy|Nous consid̩rons que certains droits ne sauraient faire l'objet d�۪arrangements conventionnels.|
+039837|fr|fr|wavs/common_voice_fr_18239917.wav|spectrograms\039837.npy|linear_spectrograms\039837.npy|Je m'appelle John.|
+039836|fr|fr|wavs/common_voice_fr_18239918.wav|spectrograms\039836.npy|linear_spectrograms\039836.npy|trente-huit rue Gustave de Clausade quatre-vingt-un huit cents Rabastens|
+039835|fr|fr|wavs/common_voice_fr_18239919.wav|spectrograms\039835.npy|linear_spectrograms\039835.npy|J'esp̬re qu�۪elle r̩pondra �� vos questions monsieur Lambert.|
+039834|fr|fr|wavs/common_voice_fr_18239920.wav|spectrograms\039834.npy|linear_spectrograms\039834.npy|deux cent douze-un permettra au pr̩fet de dissoudre l'association.|
+039833|fr|fr|wavs/common_voice_fr_18239927.wav|spectrograms\039833.npy|linear_spectrograms\039833.npy|Qu'est-ce que vous voulez que j�۪aie?|
+039832|fr|fr|wavs/common_voice_fr_18239928.wav|spectrograms\039832.npy|linear_spectrograms\039832.npy|L'interview ne s�۪arr̻te pas l��.|
+039831|fr|fr|wavs/common_voice_fr_18239929.wav|spectrograms\039831.npy|linear_spectrograms\039831.npy|Je ne crois pas que le vote ait eu lieu par scrutin public.|
+039830|fr|fr|wavs/common_voice_fr_18239930.wav|spectrograms\039830.npy|linear_spectrograms\039830.npy|J'invite donc vraiment �� la sagesse.|
+039829|fr|fr|wavs/common_voice_fr_18239941.wav|spectrograms\039829.npy|linear_spectrograms\039829.npy|Il d̩visagea ses visiteurs sans r̩agir puis son regard s'̩claira.|
+039828|fr|fr|wavs/common_voice_fr_18239942.wav|spectrograms\039828.npy|linear_spectrograms\039828.npy| Puis doucement ils referm̬rent la porte ils s'en all̬rent.|
+039827|fr|fr|wavs/common_voice_fr_18239943.wav|spectrograms\039827.npy|linear_spectrograms\039827.npy|Porte de la classe �� droite du b̢timent.|
+039826|fr|fr|wavs/common_voice_fr_18239944.wav|spectrograms\039826.npy|linear_spectrograms\039826.npy|Donc si elle commence par la fin elle finira peut-̻tre par le commencement!|
+039825|fr|fr|wavs/common_voice_fr_18239945.wav|spectrograms\039825.npy|linear_spectrograms\039825.npy|La parole est �� Madame Fan̩lie Carrey-Conte pour soutenir l'amendement num̩ro deux mille soixante-quinze.|
+039824|fr|fr|wavs/common_voice_fr_18239956.wav|spectrograms\039824.npy|linear_spectrograms\039824.npy|Nous avons tout donn̩ on vient de m'offrir trois cents francs d'un fauteuil.|
+039823|fr|fr|wavs/common_voice_fr_18239957.wav|spectrograms\039823.npy|linear_spectrograms\039823.npy|Nous croisons le fer.|
+039822|fr|fr|wavs/common_voice_fr_18239958.wav|spectrograms\039822.npy|linear_spectrograms\039822.npy|Vous ne laissez pas l'accord-cadre et la convention avec le CEPS agir.|
+039821|fr|fr|wavs/common_voice_fr_18239960.wav|spectrograms\039821.npy|linear_spectrograms\039821.npy|Rue du Viseney trente-neuf cinq cent soixante-dix Mirebel|
+039820|fr|fr|wavs/common_voice_fr_18239962.wav|spectrograms\039820.npy|linear_spectrograms\039820.npy|Oui je luttai contre moi.|
+039819|fr|fr|wavs/common_voice_fr_18239986.wav|spectrograms\039819.npy|linear_spectrograms\039819.npy|C'est pour cette raison que le groupe UDI propose la suppression de cet article.|
+039818|fr|fr|wavs/common_voice_fr_18239988.wav|spectrograms\039818.npy|linear_spectrograms\039818.npy|O�? est mon parrain?|
+039817|fr|fr|wavs/common_voice_fr_18239989.wav|spectrograms\039817.npy|linear_spectrograms\039817.npy|La parole est �� Madame Val̩rie Rabault pour les soutenir.|
+039816|fr|fr|wavs/common_voice_fr_18239990.wav|spectrograms\039816.npy|linear_spectrograms\039816.npy|J'ai deux soeurs et un fr̬re.|
+039815|fr|fr|wavs/common_voice_fr_18239992.wav|spectrograms\039815.npy|linear_spectrograms\039815.npy|Comment! vous ne me demandez m̻me pas o�? je vais?|
+039814|fr|fr|wavs/common_voice_fr_18240009.wav|spectrograms\039814.npy|linear_spectrograms\039814.npy|Je suis s��r qu'elle aimera.|
+039813|fr|fr|wavs/common_voice_fr_18240010.wav|spectrograms\039813.npy|linear_spectrograms\039813.npy|J'esp̬re que vous serez d�۪accord pour le soutenir.|
+039812|fr|fr|wavs/common_voice_fr_18240011.wav|spectrograms\039812.npy|linear_spectrograms\039812.npy|Je vous en prie cher coll̬gue.|
+039811|fr|fr|wavs/common_voice_fr_18240012.wav|spectrograms\039811.npy|linear_spectrograms\039811.npy|Madame Montaudoin �� part.|
+039810|fr|fr|wavs/common_voice_fr_18240013.wav|spectrograms\039810.npy|linear_spectrograms\039810.npy|La parole est �� Monsieur Thierry Benoit pour soutenir l'amendement num̩ro mille cent rectifi̩.|
+039809|fr|fr|wavs/common_voice_fr_18240042.wav|spectrograms\039809.npy|linear_spectrograms\039809.npy|Attendez je le tiens.|
+039808|fr|fr|wavs/common_voice_fr_18240043.wav|spectrograms\039808.npy|linear_spectrograms\039808.npy|Route d'Auty quatre-vingt-deux deux cent soixante-dix Montpezat-de-Quercy|
+039807|fr|fr|wavs/common_voice_fr_18240044.wav|spectrograms\039807.npy|linear_spectrograms\039807.npy|Ce th̢̩tre ̩tait selon la parole de Robespierre le repaire de l'aristocratie.|
+039806|fr|fr|wavs/common_voice_fr_18240045.wav|spectrograms\039806.npy|linear_spectrograms\039806.npy|Asseyez-vous Florentin Loriot et donnez-nous de fra�?ches nouvelles de la Providence.|
+039805|fr|fr|wavs/common_voice_fr_18240046.wav|spectrograms\039805.npy|linear_spectrograms\039805.npy|Il y a deux piliers le public et le priv̩.|
+039804|fr|fr|wavs/common_voice_fr_18240062.wav|spectrograms\039804.npy|linear_spectrograms\039804.npy|J'invite nos coll̬gues �� y prendre garde et �� se r̩f̩rer �� la jurisprudence.|
+039803|fr|fr|wavs/common_voice_fr_18240063.wav|spectrograms\039803.npy|linear_spectrograms\039803.npy|La parole est �� Madame Bernadette Laclais pour soutenir l'amendement num̩ro cinq cent deux.|
+039802|fr|fr|wavs/common_voice_fr_18240064.wav|spectrograms\039802.npy|linear_spectrograms\039802.npy|Quand allez-vous vider la maison?|
+039801|fr|fr|wavs/common_voice_fr_18240065.wav|spectrograms\039801.npy|linear_spectrograms\039801.npy|Les M̻mes moins Paulette John haussant les ̩paules. - Isse! ce navet!|
+039800|fr|fr|wavs/common_voice_fr_18240066.wav|spectrograms\039800.npy|linear_spectrograms\039800.npy|C'est un bien bon jeune homme va.|
+039799|fr|fr|wavs/common_voice_fr_18240077.wav|spectrograms\039799.npy|linear_spectrograms\039799.npy|Clos du Millepertuis �� Narbonne|
+039798|fr|fr|wavs/common_voice_fr_18240078.wav|spectrograms\039798.npy|linear_spectrograms\039798.npy|Au contraire cela fait fuir les autres.|
+039797|fr|fr|wavs/common_voice_fr_18240079.wav|spectrograms\039797.npy|linear_spectrograms\039797.npy|Je pr̩cise que les p̩rim̬tres seront d̩finis d̩but juillet.|
+039796|fr|fr|wavs/common_voice_fr_18240080.wav|spectrograms\039796.npy|linear_spectrograms\039796.npy|Je le r̩p̬te: une ̩tude approfondie est n̩cessaire avant toute d̩cision en ce sens.|
+039795|fr|fr|wavs/common_voice_fr_18240081.wav|spectrograms\039795.npy|linear_spectrograms\039795.npy|Je suis saisie de deux amendements identiques de suppression num̩ros vingt-sept et deux cent seize.|
+039794|fr|fr|wavs/common_voice_fr_18240087.wav|spectrograms\039794.npy|linear_spectrograms\039794.npy|Ils sont si modestes! le public les g̻ne.|
+039793|fr|fr|wavs/common_voice_fr_18240088.wav|spectrograms\039793.npy|linear_spectrograms\039793.npy|Sauv̩e! murmura Pauline.|
+039792|fr|fr|wavs/common_voice_fr_18240089.wav|spectrograms\039792.npy|linear_spectrograms\039792.npy|J'ai invit̩ trente-cinq enfants �� sa f̻te d�۪anniversaire.|
+039791|fr|fr|wavs/common_voice_fr_18240090.wav|spectrograms\039791.npy|linear_spectrograms\039791.npy|Comptez sur moi.|
+039790|fr|fr|wavs/common_voice_fr_18240091.wav|spectrograms\039790.npy|linear_spectrograms\039790.npy|Au moment o�? j'̩tais en train d�۪ouvrir la porte.|
+039789|fr|fr|wavs/common_voice_fr_18240102.wav|spectrograms\039789.npy|linear_spectrograms\039789.npy|Quel est l'avis de la commission? Cette question a d̩j�� ̩t̩ ̩voqu̩e en commission.|
+039788|fr|fr|wavs/common_voice_fr_18240103.wav|spectrograms\039788.npy|linear_spectrograms\039788.npy|Belle-Rose bien s��r de son fait cette fois prit son parti sur-le-champ.|
+039787|fr|fr|wavs/common_voice_fr_18240104.wav|spectrograms\039787.npy|linear_spectrograms\039787.npy|Il est venu ici.|
+039786|fr|fr|wavs/common_voice_fr_18240105.wav|spectrograms\039786.npy|linear_spectrograms\039786.npy|Au milieu des honneurs rendus aux vivants on n'a point oubli̩ les morts.|
+039785|fr|fr|wavs/common_voice_fr_18240106.wav|spectrograms\039785.npy|linear_spectrograms\039785.npy|O�? avez-vous mal?|
+039784|fr|fr|wavs/common_voice_fr_18240117.wav|spectrograms\039784.npy|linear_spectrograms\039784.npy|Fort convenable. c'est un homme froid.|
+039783|fr|fr|wavs/common_voice_fr_18240118.wav|spectrograms\039783.npy|linear_spectrograms\039783.npy|Ces gens ̩taient riches?|
+039782|fr|fr|wavs/common_voice_fr_18240119.wav|spectrograms\039782.npy|linear_spectrograms\039782.npy|Alors elle ̩tait parfois un peu brusque avec elle|
+039781|fr|fr|wavs/common_voice_fr_18240120.wav|spectrograms\039781.npy|linear_spectrograms\039781.npy|Sous les neiges le cardeur de laine a de longues veill̩es pour ̩couter la Bible.|
+039780|fr|fr|wavs/common_voice_fr_18240121.wav|spectrograms\039780.npy|linear_spectrograms\039780.npy|C'est la r̩alit̩.|
+039779|fr|fr|wavs/common_voice_fr_18240127.wav|spectrograms\039779.npy|linear_spectrograms\039779.npy|C'est un sous-amendement de coordination juridique.|
+039778|fr|fr|wavs/common_voice_fr_18240128.wav|spectrograms\039778.npy|linear_spectrograms\039778.npy|Je fais plus je vous l'impose.|
+039777|fr|fr|wavs/common_voice_fr_18240130.wav|spectrograms\039777.npy|linear_spectrograms\039777.npy|Ce sous-amendement vise �� rectifier une erreur de r̩f̩rence.|
+039776|fr|fr|wavs/common_voice_fr_18240131.wav|spectrograms\039776.npy|linear_spectrograms\039776.npy|Dup̩rier arriv̩e la veille de la f̻te de la Vierge.|
+039775|fr|fr|wavs/common_voice_fr_18240142.wav|spectrograms\039775.npy|linear_spectrograms\039775.npy|R̩sultat ce projet de loi ne contient �� l'̩vidence aucun bouleversement.|
+039774|fr|fr|wavs/common_voice_fr_18240143.wav|spectrograms\039774.npy|linear_spectrograms\039774.npy|�� gauche un bureau sur une estrade servant de tribune.|
+039773|fr|fr|wavs/common_voice_fr_18240144.wav|spectrograms\039773.npy|linear_spectrograms\039773.npy|Lerouge avait pos̩ son chapeau sur une chaise.|
+039772|fr|fr|wavs/common_voice_fr_18240145.wav|spectrograms\039772.npy|linear_spectrograms\039772.npy|Je n'avais pas d̩jeun̩.|
+039771|fr|fr|wavs/common_voice_fr_18240146.wav|spectrograms\039771.npy|linear_spectrograms\039771.npy|Aidez-la donc �� conserver l'un et l�۪autre.|
+039770|fr|fr|wavs/common_voice_fr_18240157.wav|spectrograms\039770.npy|linear_spectrograms\039770.npy|Ne vous en faites pas. J'ai le m̻me probl̬me.|
+039769|fr|fr|wavs/common_voice_fr_18240158.wav|spectrograms\039769.npy|linear_spectrograms\039769.npy|Il n'est donc pas certains qu�۪elles soient prises en compte.|
+039768|fr|fr|wavs/common_voice_fr_18240159.wav|spectrograms\039768.npy|linear_spectrograms\039768.npy|Bon voyage et sans rancune.|
+039767|fr|fr|wavs/common_voice_fr_18240160.wav|spectrograms\039767.npy|linear_spectrograms\039767.npy|L'expulsion de ses fils est de mille trois cent vingt-neuf.|
+039766|fr|fr|wavs/common_voice_fr_18240161.wav|spectrograms\039766.npy|linear_spectrograms\039766.npy|Dans ce cas la d̩cision aura un co��t.|
+039765|fr|fr|wavs/common_voice_fr_18240172.wav|spectrograms\039765.npy|linear_spectrograms\039765.npy|C'est elle la ma�?tresse d�۪̩cole.|
+039764|fr|fr|wavs/common_voice_fr_18240173.wav|spectrograms\039764.npy|linear_spectrograms\039764.npy|Rue du Pr̩ de la Ferme �� Cesson|
+039763|fr|fr|wavs/common_voice_fr_18240174.wav|spectrograms\039763.npy|linear_spectrograms\039763.npy|C'est tout le monde.|
+039762|fr|fr|wavs/common_voice_fr_18240175.wav|spectrograms\039762.npy|linear_spectrograms\039762.npy|Il a ̩t̩ mis en place en deux mille six.|
+039761|fr|fr|wavs/common_voice_fr_18240176.wav|spectrograms\039761.npy|linear_spectrograms\039761.npy|Les femmes sont au septi̬me ciel.|
+039760|fr|fr|wavs/common_voice_fr_18240182.wav|spectrograms\039760.npy|linear_spectrograms\039760.npy|Car elle va venir n'est-ce pas la petite dame brune?|
+039759|fr|fr|wavs/common_voice_fr_18240183.wav|spectrograms\039759.npy|linear_spectrograms\039759.npy|Cette grosse corde.|
+039758|fr|fr|wavs/common_voice_fr_18240184.wav|spectrograms\039758.npy|linear_spectrograms\039758.npy|Et la foule se dispersa.|
+039757|fr|fr|wavs/common_voice_fr_18240185.wav|spectrograms\039757.npy|linear_spectrograms\039757.npy|Rue Ang̬le Lig̬re au num̩ro dix|
+039756|fr|fr|wavs/common_voice_fr_18240186.wav|spectrograms\039756.npy|linear_spectrograms\039756.npy|Oh! ̤a c'est une locution. dont on peut se servir envers un sup̩rieur.|
+039755|fr|fr|wavs/common_voice_fr_18240212.wav|spectrograms\039755.npy|linear_spectrograms\039755.npy|Je reviendrai �� midi!|
+039754|fr|fr|wavs/common_voice_fr_18240213.wav|spectrograms\039754.npy|linear_spectrograms\039754.npy|J'en ai laiss̩ cinq morceaux et je n�۪en retrouve plus que quatre!|
+039753|fr|fr|wavs/common_voice_fr_18240214.wav|spectrograms\039753.npy|linear_spectrograms\039753.npy|Ecoutez-moi madame dit R̩gulus et quand vous m'aurez entendu peut-̻tre changerez-vous d'opinion sur son compte.|
+039752|fr|fr|wavs/common_voice_fr_18240215.wav|spectrograms\039752.npy|linear_spectrograms\039752.npy|Mais vous n'avez donc jamais ̩t̩ dans le moindre des minist̬res?|
+039751|fr|fr|wavs/common_voice_fr_18240216.wav|spectrograms\039751.npy|linear_spectrograms\039751.npy|Nous avons bien cru au narwal de monsieur.|
+039750|fr|fr|wavs/common_voice_fr_18240227.wav|spectrograms\039750.npy|linear_spectrograms\039750.npy|Le comte et la comtesse de Faverges les salu̬rent de loin ce qui fut remarqu̩.|
+039749|fr|fr|wavs/common_voice_fr_18240228.wav|spectrograms\039749.npy|linear_spectrograms\039749.npy|Telle est l'analyse que nous d̩fendons.|
+039748|fr|fr|wavs/common_voice_fr_18240229.wav|spectrograms\039748.npy|linear_spectrograms\039748.npy|Est-ce que vous avez remarqu̩ madame Bichu?|
+039747|fr|fr|wavs/common_voice_fr_18240231.wav|spectrograms\039747.npy|linear_spectrograms\039747.npy|Trois heures sonnaient.|
+039746|fr|fr|wavs/common_voice_fr_18240242.wav|spectrograms\039746.npy|linear_spectrograms\039746.npy|Oui et je revenais d'une de nos r̩unions quand j'ai ̩t̩ attaqu̩ . Bien.|
+039745|fr|fr|wavs/common_voice_fr_18240243.wav|spectrograms\039745.npy|linear_spectrograms\039745.npy|Heureusement il pleuvait beaucoup.|
+039744|fr|fr|wavs/common_voice_fr_18240244.wav|spectrograms\039744.npy|linear_spectrograms\039744.npy|L'espoir? C�۪est de lui que je vis.|
+039743|fr|fr|wavs/common_voice_fr_18240245.wav|spectrograms\039743.npy|linear_spectrograms\039743.npy|Nous serons l�� encore simplement inform̩s par un rapport sans pouvoir en discuter.|
+039742|fr|fr|wavs/common_voice_fr_18240246.wav|spectrograms\039742.npy|linear_spectrograms\039742.npy|Je vous remercie d'abord en tant que secr̩taire d�۪��tat charg̩e de la biodiversit̩.|
+039741|fr|fr|wavs/common_voice_fr_18240258.wav|spectrograms\039741.npy|linear_spectrograms\039741.npy|C'est donc ̤a.|
+039740|fr|fr|wavs/common_voice_fr_18240259.wav|spectrograms\039740.npy|linear_spectrograms\039740.npy|Cette diff̩rence d'assiette peut para�?tre p̩nalisante.|
+039739|fr|fr|wavs/common_voice_fr_18240260.wav|spectrograms\039739.npy|linear_spectrograms\039739.npy|Quel est l'avis de la commission? Tr̬s favorable.|
+039738|fr|fr|wavs/common_voice_fr_18240261.wav|spectrograms\039738.npy|linear_spectrograms\039738.npy|Je la retiens la banlieue!|
+039737|fr|fr|wavs/common_voice_fr_18240262.wav|spectrograms\039737.npy|linear_spectrograms\039737.npy|Voyons qu'est-ce que vous avez donc contre moi depuis quelque temps?|
+039736|fr|fr|wavs/common_voice_fr_18240263.wav|spectrograms\039736.npy|linear_spectrograms\039736.npy|Le rapport au travail s'est profond̩ment modifi̩ compte tenu notamment de l�۪̩volution technologique.|
+039735|fr|fr|wavs/common_voice_fr_18240264.wav|spectrograms\039735.npy|linear_spectrograms\039735.npy|son corps d'ours ramass̩ sur un tabouret de la cuisine|
+039734|fr|fr|wavs/common_voice_fr_18240265.wav|spectrograms\039734.npy|linear_spectrograms\039734.npy|Il est vrai que la phase de discussion est absolument indispensable.|
+039733|fr|fr|wavs/common_voice_fr_18240266.wav|spectrograms\039733.npy|linear_spectrograms\039733.npy|La parole est �� Madame Blandine Brocard pour soutenir l'amendement num̩ro cinq cent quarante-sept.|
+039732|fr|fr|wavs/common_voice_fr_18240267.wav|spectrograms\039732.npy|linear_spectrograms\039732.npy|Je suis assez ̩berlu̩e par ce que j'entends sur les bancs de l�۪opposition.|
+039731|fr|fr|wavs/common_voice_fr_18240268.wav|spectrograms\039731.npy|linear_spectrograms\039731.npy|Les amendements num̩ros cent trente-neuf et cent soixante-six sont identiques.|
+039730|fr|fr|wavs/common_voice_fr_18240269.wav|spectrograms\039730.npy|linear_spectrograms\039730.npy|Je m'en vas!|
+039729|fr|fr|wavs/common_voice_fr_18240270.wav|spectrograms\039729.npy|linear_spectrograms\039729.npy|En zone rurale ̩galement.|
+039728|fr|fr|wavs/common_voice_fr_18240271.wav|spectrograms\039728.npy|linear_spectrograms\039728.npy|A toi �� parler au citoyen Carrier.|
+039727|fr|fr|wavs/common_voice_fr_18240272.wav|spectrograms\039727.npy|linear_spectrograms\039727.npy|Comprenez-vous maintenant? Oh! oui oui dit mademoiselle de Valois.|
+039726|fr|fr|wavs/common_voice_fr_18240273.wav|spectrograms\039726.npy|linear_spectrograms\039726.npy|Le bouquetin est certes une esp̬ce sauvage prot̩g̩e mais elle n'est pas r̩gul̩e.|
+039725|fr|fr|wavs/common_voice_fr_18240275.wav|spectrograms\039725.npy|linear_spectrograms\039725.npy|treize chemin de l'Araire|
+039724|fr|fr|wavs/common_voice_fr_18240276.wav|spectrograms\039724.npy|linear_spectrograms\039724.npy|Je cabale pour ton ma�?tre.|
+039723|fr|fr|wavs/common_voice_fr_18240277.wav|spectrograms\039723.npy|linear_spectrograms\039723.npy|Je vous demande d'examiner cet amendement avec bienveillance.|
+039722|fr|fr|wavs/common_voice_fr_18240278.wav|spectrograms\039722.npy|linear_spectrograms\039722.npy|Ils n'̩coutent la radio que de temps en temps.|
+039721|fr|fr|wavs/common_voice_fr_18240279.wav|spectrograms\039721.npy|linear_spectrograms\039721.npy|Comment! vous voil�� encore �� coudre �� l'heure qu�۪il est?|
+039720|fr|fr|wavs/common_voice_fr_18240280.wav|spectrograms\039720.npy|linear_spectrograms\039720.npy|Elle ajouta: Regardez plut̫t il y a juste de la place.|
+039719|fr|fr|wavs/common_voice_fr_18240281.wav|spectrograms\039719.npy|linear_spectrograms\039719.npy|Tiens garde-moi mon panama.|
+039718|fr|fr|wavs/common_voice_fr_18240282.wav|spectrograms\039718.npy|linear_spectrograms\039718.npy|C'est pourquoi la commission a ̩mis un avis d̩favorable sur ces amendements de suppression.|
+039717|fr|fr|wavs/common_voice_fr_18240284.wav|spectrograms\039717.npy|linear_spectrograms\039717.npy|Qu'elles ne regardent pas!|
+039716|fr|fr|wavs/common_voice_fr_18240286.wav|spectrograms\039716.npy|linear_spectrograms\039716.npy|Quel est l'avis du Gouvernement? M̻me avis.|
+039715|fr|fr|wavs/common_voice_fr_18240287.wav|spectrograms\039715.npy|linear_spectrograms\039715.npy|La parole est �� Madame ��milie Bonnivard pour soutenir l'amendement num̩ro sept cent vingt-six.|
+039714|fr|fr|wavs/common_voice_fr_18240288.wav|spectrograms\039714.npy|linear_spectrograms\039714.npy|Je m'y mettrai �� la bagatelle.|
+039713|fr|fr|wavs/common_voice_fr_18240289.wav|spectrograms\039713.npy|linear_spectrograms\039713.npy|Relancer Yann pour la s̩ance de Dalgalian s'il ne m�۪informe pas.|
+039712|fr|fr|wavs/common_voice_fr_18240290.wav|spectrograms\039712.npy|linear_spectrograms\039712.npy|Respectez l'opposition s�۪il vous pla�?t.|
+039711|fr|fr|wavs/common_voice_fr_18240291.wav|spectrograms\039711.npy|linear_spectrograms\039711.npy|Dans un quart d'heure!|
+039710|fr|fr|wavs/common_voice_fr_18240293.wav|spectrograms\039710.npy|linear_spectrograms\039710.npy|Je ne reviendrai pas sur les conditions dans lesquelles nous travaillons.|
+039709|fr|fr|wavs/common_voice_fr_18240295.wav|spectrograms\039709.npy|linear_spectrograms\039709.npy|�� bas les pattes!|
+039708|fr|fr|wavs/common_voice_fr_18240296.wav|spectrograms\039708.npy|linear_spectrograms\039708.npy|Que peut-il avoir �� lui dire?|
+039707|fr|fr|wavs/common_voice_fr_18240297.wav|spectrograms\039707.npy|linear_spectrograms\039707.npy|J'ai peut-̻tre des reproches �� me faire se disait l'abb̩ plus soucieux qu'irrit̩.|
+039706|fr|fr|wavs/common_voice_fr_18240298.wav|spectrograms\039706.npy|linear_spectrograms\039706.npy|Merci monsieur Peu. J'en viens �� mon amendement.|
+039705|fr|fr|wavs/common_voice_fr_18240299.wav|spectrograms\039705.npy|linear_spectrograms\039705.npy|Du coup le gamin avait pris l'habitude de venir faire ses devoirs chez Lydie.|
+039704|fr|fr|wavs/common_voice_fr_18240300.wav|spectrograms\039704.npy|linear_spectrograms\039704.npy|Faute de quoi il proc̩dera lui-m̻me" hic et nunc."""" Gaudiband."|
+039703|fr|fr|wavs/common_voice_fr_18240301.wav|spectrograms\039703.npy|linear_spectrograms\039703.npy|Elle sort �� droite deuxi̬me plan.|
+039702|fr|fr|wavs/common_voice_fr_18240307.wav|spectrograms\039702.npy|linear_spectrograms\039702.npy|Je m'en ̩tonne moi bien davantage.|
+039701|fr|fr|wavs/common_voice_fr_18240308.wav|spectrograms\039701.npy|linear_spectrograms\039701.npy|trois rue Brochain|
+039700|fr|fr|wavs/common_voice_fr_18240309.wav|spectrograms\039700.npy|linear_spectrograms\039700.npy|John est l��?|
+039699|fr|fr|wavs/common_voice_fr_18240310.wav|spectrograms\039699.npy|linear_spectrograms\039699.npy|C'est juridiquement impossible.|
+039698|fr|fr|wavs/common_voice_fr_18240311.wav|spectrograms\039698.npy|linear_spectrograms\039698.npy|Virginie F̩lix Virginie �� F̩lix qui cherche �� l'embrasser.|
+039697|fr|fr|wavs/common_voice_fr_18240322.wav|spectrograms\039697.npy|linear_spectrograms\039697.npy|Ils veulent se sauver|
+039696|fr|fr|wavs/common_voice_fr_18240323.wav|spectrograms\039696.npy|linear_spectrograms\039696.npy|Son oeil fixe faisait qu'on parlait bas autour de lui.|
+039695|fr|fr|wavs/common_voice_fr_18240324.wav|spectrograms\039695.npy|linear_spectrograms\039695.npy|Je suis s��r qu'il aima.|
+039694|fr|fr|wavs/common_voice_fr_18240325.wav|spectrograms\039694.npy|linear_spectrograms\039694.npy|Affaire d'int̩rieur. ̤a te regarde.|
+039693|fr|fr|wavs/common_voice_fr_18240326.wav|spectrograms\039693.npy|linear_spectrograms\039693.npy|�� quelle heure?|
+039692|fr|fr|wavs/common_voice_fr_18240332.wav|spectrograms\039692.npy|linear_spectrograms\039692.npy|Je me suis ̩chaud̩ la main!|
+039691|fr|fr|wavs/common_voice_fr_18240333.wav|spectrograms\039691.npy|linear_spectrograms\039691.npy|Je vous sugg̬re de retirer votre amendement.|
+039690|fr|fr|wavs/common_voice_fr_18240334.wav|spectrograms\039690.npy|linear_spectrograms\039690.npy|Surtout appliquez-vous �� bien d̩clamer la fin la p̩roraison.|
+039689|fr|fr|wavs/common_voice_fr_18240335.wav|spectrograms\039689.npy|linear_spectrograms\039689.npy|Quant aux miracles leur raison n'en fut pas surprise|
+039688|fr|fr|wavs/common_voice_fr_18240336.wav|spectrograms\039688.npy|linear_spectrograms\039688.npy|Tu lui as fait ton oeil de velours?|
+039687|fr|fr|wavs/common_voice_fr_18240357.wav|spectrograms\039687.npy|linear_spectrograms\039687.npy|Entrer dans la chambre d'un jeune homme!|
+039686|fr|fr|wavs/common_voice_fr_18240358.wav|spectrograms\039686.npy|linear_spectrograms\039686.npy|Il se jura de n'en plus avoir.|
+039685|fr|fr|wavs/common_voice_fr_18240359.wav|spectrograms\039685.npy|linear_spectrograms\039685.npy|Le plus beau ch̢teau que j'ai vu.|
+039684|fr|fr|wavs/common_voice_fr_18240360.wav|spectrograms\039684.npy|linear_spectrograms\039684.npy|Quel est l'avis du Gouvernement? M̻me avis: l�۪amendement est satisfait.|
+039683|fr|fr|wavs/common_voice_fr_18240361.wav|spectrograms\039683.npy|linear_spectrograms\039683.npy|Merci gamin il faut qu'on y aille mais ̤a m�۪a fait plaisir de te voir.|
+039682|fr|fr|wavs/common_voice_fr_18240377.wav|spectrograms\039682.npy|linear_spectrograms\039682.npy|Face �� l'hypocrisie seul le droit vaut.|
+039681|fr|fr|wavs/common_voice_fr_18240378.wav|spectrograms\039681.npy|linear_spectrograms\039681.npy|Au bout de dix minutes Lafare rentra avec le gouverneur.|
+039680|fr|fr|wavs/common_voice_fr_18240379.wav|spectrograms\039680.npy|linear_spectrograms\039680.npy|La parole est �� Madame Danielle Auroi.|
+039679|fr|fr|wavs/common_voice_fr_18240380.wav|spectrograms\039679.npy|linear_spectrograms\039679.npy|Il a chass̩ son cuisinier.|
+039678|fr|fr|wavs/common_voice_fr_18240381.wav|spectrograms\039678.npy|linear_spectrograms\039678.npy|Et le duc de Guise?|
+039677|fr|fr|wavs/common_voice_fr_18240392.wav|spectrograms\039677.npy|linear_spectrograms\039677.npy|��a vous int̩resse?|
+039676|fr|fr|wavs/common_voice_fr_18240393.wav|spectrograms\039676.npy|linear_spectrograms\039676.npy|Les Bavarois les poursuivirent l'̩p̩e dans les reins et entr̬rent p̻le-m̻le avec eux dans Salzbourg.|
+039675|fr|fr|wavs/common_voice_fr_18240394.wav|spectrograms\039675.npy|linear_spectrograms\039675.npy|Un pain.|
+039674|fr|fr|wavs/common_voice_fr_18240395.wav|spectrograms\039674.npy|linear_spectrograms\039674.npy|Mais tu as un vilain d̩faut tu es emport̩ col̬re.|
+039673|fr|fr|wavs/common_voice_fr_18240396.wav|spectrograms\039673.npy|linear_spectrograms\039673.npy|Je suppose qu'il a ̩t̩ grandement inspir̩ des ̩v̩nements r̩cents.|
+039672|fr|fr|wavs/common_voice_fr_18240402.wav|spectrograms\039672.npy|linear_spectrograms\039672.npy|Il ̩tait simple et bon alors cet homme qui me menace aujourd'hui.|
+039671|fr|fr|wavs/common_voice_fr_18240403.wav|spectrograms\039671.npy|linear_spectrograms\039671.npy|Mais on dirait bien que c'est la sienne. Il apporte une bouteille?|
+039670|fr|fr|wavs/common_voice_fr_18240404.wav|spectrograms\039670.npy|linear_spectrograms\039670.npy|Perte de la terre sainte.|
+039669|fr|fr|wavs/common_voice_fr_18240405.wav|spectrograms\039669.npy|linear_spectrograms\039669.npy|Apr̬s avoir jet̩ le dernier cadavre �� l'eau l'̩colier voit un moine parfaitement vivant.|
+039668|fr|fr|wavs/common_voice_fr_18240406.wav|spectrograms\039668.npy|linear_spectrograms\039668.npy|Le Commissaire Et c'est tout?|
+039667|fr|fr|wavs/common_voice_fr_18240412.wav|spectrograms\039667.npy|linear_spectrograms\039667.npy|Il devenait tr̬s riche mais que lui importait? son but ̩tait manqu̩.|
+039666|fr|fr|wavs/common_voice_fr_18240413.wav|spectrograms\039666.npy|linear_spectrograms\039666.npy|Au public sans quitter le r̩cepteur de l'oreille.|
+039665|fr|fr|wavs/common_voice_fr_18240414.wav|spectrograms\039665.npy|linear_spectrograms\039665.npy|Mon pistolet ̩tait �� ma ceinture mais il ̩tait d̩charg̩.|
+039664|fr|fr|wavs/common_voice_fr_18240415.wav|spectrograms\039664.npy|linear_spectrograms\039664.npy|Trois ̩l̩phants noirs.|
+039663|fr|fr|wavs/common_voice_fr_18240417.wav|spectrograms\039663.npy|linear_spectrograms\039663.npy|Elle baise sa bourse et s'arr̻te.|
+039662|fr|fr|wavs/common_voice_fr_18240418.wav|spectrograms\039662.npy|linear_spectrograms\039662.npy|Votre nom? demanda le juge d'instruction.|
+039661|fr|fr|wavs/common_voice_fr_18240419.wav|spectrograms\039661.npy|linear_spectrograms\039661.npy|La tra̤abilit̩ nous permettrait de distinguer les deux sources d'extraction de l�۪or.|
+039660|fr|fr|wavs/common_voice_fr_18240420.wav|spectrograms\039660.npy|linear_spectrograms\039660.npy|Celui qui le tira Damiens ̩tait d'Arras.|
+039659|fr|fr|wavs/common_voice_fr_18240421.wav|spectrograms\039659.npy|linear_spectrograms\039659.npy|En r̩alit̩ c'est un mouton.|
+039658|fr|fr|wavs/common_voice_fr_18240422.wav|spectrograms\039658.npy|linear_spectrograms\039658.npy|Et sa grand'm̬re la regardait ̩mue malgr̩ elle par cet entier par ce profond d̩sespoir.|
+039657|fr|fr|wavs/common_voice_fr_18240423.wav|spectrograms\039657.npy|linear_spectrograms\039657.npy|Il rentre dans le caf̩.|
+039656|fr|fr|wavs/common_voice_fr_18240424.wav|spectrograms\039656.npy|linear_spectrograms\039656.npy|Mais si. je l'aime bien.|
+039655|fr|fr|wavs/common_voice_fr_18240425.wav|spectrograms\039655.npy|linear_spectrograms\039655.npy|C'̩tait trop fort.|
+039654|fr|fr|wavs/common_voice_fr_18240426.wav|spectrograms\039654.npy|linear_spectrograms\039654.npy|Je suis mademoiselle Claire d'Arlange monsieur dit-elle.|
+039653|fr|fr|wavs/common_voice_fr_18240432.wav|spectrograms\039653.npy|linear_spectrograms\039653.npy|Les auteurs de cet amendement reviennent sur un d̩bat qui a ̩t̩ tranch̩.|
+039652|fr|fr|wavs/common_voice_fr_18240433.wav|spectrograms\039652.npy|linear_spectrograms\039652.npy|Vingt-deux grands ̩l̩phants.|
+039651|fr|fr|wavs/common_voice_fr_18240434.wav|spectrograms\039651.npy|linear_spectrograms\039651.npy|De l'̩ther! vite apporte de l�۪̩ther!|
+039650|fr|fr|wavs/common_voice_fr_18240435.wav|spectrograms\039650.npy|linear_spectrograms\039650.npy|Ils ne l'avaient pas ̩cout̩.|
+039649|fr|fr|wavs/common_voice_fr_18240436.wav|spectrograms\039649.npy|linear_spectrograms\039649.npy|Un projet protecteur car les populations sont au coeur de nos pr̩occupations.|
+039648|fr|fr|wavs/common_voice_fr_18240447.wav|spectrograms\039648.npy|linear_spectrograms\039648.npy|Pour notre part nous pensons qu'elle sera inop̩rante et nous la jugeons incoh̩rente.|
+039647|fr|fr|wavs/common_voice_fr_18240448.wav|spectrograms\039647.npy|linear_spectrograms\039647.npy|Cela fut fait.|
+039646|fr|fr|wavs/common_voice_fr_18240449.wav|spectrograms\039646.npy|linear_spectrograms\039646.npy|J'ai une paire de chaussons.|
+039645|fr|fr|wavs/common_voice_fr_18240450.wav|spectrograms\039645.npy|linear_spectrograms\039645.npy|Il ne les avait pas comprises il les avait tu̩es toutes deux.|
+039644|fr|fr|wavs/common_voice_fr_18240451.wav|spectrograms\039644.npy|linear_spectrograms\039644.npy|Le plus neuf d'entre eux.|
+039643|fr|fr|wavs/common_voice_fr_18240457.wav|spectrograms\039643.npy|linear_spectrograms\039643.npy|S'il vous plait suivez-moi.|
+039642|fr|fr|wavs/common_voice_fr_18240458.wav|spectrograms\039642.npy|linear_spectrograms\039642.npy|un ruelle du Fronton|
+039641|fr|fr|wavs/common_voice_fr_18240459.wav|spectrograms\039641.npy|linear_spectrograms\039641.npy|C'est simple.|
+039640|fr|fr|wavs/common_voice_fr_18240460.wav|spectrograms\039640.npy|linear_spectrograms\039640.npy|Je ne te d̩range pas?|
+039639|fr|fr|wavs/common_voice_fr_18240461.wav|spectrograms\039639.npy|linear_spectrograms\039639.npy|Il est dix-neuf heures.|
+039638|fr|fr|wavs/common_voice_fr_18278311.wav|spectrograms\039638.npy|linear_spectrograms\039638.npy|Il va s'asseoir pr̬s de la table �� gauche.|
+039637|fr|fr|wavs/common_voice_fr_18278313.wav|spectrograms\039637.npy|linear_spectrograms\039637.npy|Les amendements num̩ros deux cent dix-sept deux cent quatre-vingt-seize et cinq cent vingt-cinq sont identiques.|
+039636|fr|fr|wavs/common_voice_fr_18278315.wav|spectrograms\039636.npy|linear_spectrograms\039636.npy|La parole est �� Madame Sandrine Doucet.|
+039635|fr|fr|wavs/common_voice_fr_18278316.wav|spectrograms\039635.npy|linear_spectrograms\039635.npy|Mais S̩guin avait encore un autre projet.|
+039634|fr|fr|wavs/common_voice_fr_18278330.wav|spectrograms\039634.npy|linear_spectrograms\039634.npy|Or cette br̬che est ̩norme.|
+039633|fr|fr|wavs/common_voice_fr_18278331.wav|spectrograms\039633.npy|linear_spectrograms\039633.npy|Rue de la Vigne �� la Croix au num̩ro neuf|
+039632|fr|fr|wavs/common_voice_fr_18278332.wav|spectrograms\039632.npy|linear_spectrograms\039632.npy|Je ne sais pas encore o�? je vais attendez!|
+039631|fr|fr|wavs/common_voice_fr_18278333.wav|spectrograms\039631.npy|linear_spectrograms\039631.npy|Elle avait pass̩ une tr̬s mauvaise nuit.|
+039630|fr|fr|wavs/common_voice_fr_18278334.wav|spectrograms\039630.npy|linear_spectrograms\039630.npy|Je ne veux pas regarder la t̩l̩vision.|
+039629|fr|fr|wavs/common_voice_fr_18278355.wav|spectrograms\039629.npy|linear_spectrograms\039629.npy|Bien! La parole est �� Monsieur J̩r̫me Chartier.|
+039628|fr|fr|wavs/common_voice_fr_18278356.wav|spectrograms\039628.npy|linear_spectrograms\039628.npy|C'est une fa̤on de penser �� laquelle nous nous opposons radicalement.|
+039627|fr|fr|wavs/common_voice_fr_18278357.wav|spectrograms\039627.npy|linear_spectrograms\039627.npy|Dans celle-l�� c'est la loi qui fixera la capitale.|
+039626|fr|fr|wavs/common_voice_fr_18278359.wav|spectrograms\039626.npy|linear_spectrograms\039626.npy|La r̩publique protestante hypoth̬que son budget sur les galions de Philippe deux.|
+039625|fr|fr|wavs/common_voice_fr_18278360.wav|spectrograms\039625.npy|linear_spectrograms\039625.npy|Coup de sonnette �� la porte ext̩rieure.|
+039624|fr|fr|wavs/common_voice_fr_18278361.wav|spectrograms\039624.npy|linear_spectrograms\039624.npy|Or en imposant un commun accord l'article L.|
+039623|fr|fr|wavs/common_voice_fr_18278362.wav|spectrograms\039623.npy|linear_spectrograms\039623.npy|La commission a supprim̩ l'article trente-six.|
+039622|fr|fr|wavs/common_voice_fr_18278363.wav|spectrograms\039622.npy|linear_spectrograms\039622.npy|Nous sommes le vingt-cinq ao��t.|
+039621|fr|fr|wavs/common_voice_fr_18278366.wav|spectrograms\039621.npy|linear_spectrograms\039621.npy|La parole est �� Monsieur G̩rard Cherpion pour soutenir l'amendement num̩ro trente-neuf.|
+039620|fr|fr|wavs/common_voice_fr_18278367.wav|spectrograms\039620.npy|linear_spectrograms\039620.npy|On am̬ne La Chique qui ̩tait au violon.|
+039619|fr|fr|wavs/common_voice_fr_18278368.wav|spectrograms\039619.npy|linear_spectrograms\039619.npy|C'est la fronde! La parole est �� Madame Monique Rabin.|
+039618|fr|fr|wavs/common_voice_fr_18278369.wav|spectrograms\039618.npy|linear_spectrograms\039618.npy|Ils remont̬rent en voiture se faisant un peu la gueule.|
+039617|fr|fr|wavs/common_voice_fr_18278375.wav|spectrograms\039617.npy|linear_spectrograms\039617.npy|vingt-quatre r̩sidence Alain Fournier trente-deux trois cents Mirande|
+039616|fr|fr|wavs/common_voice_fr_18278378.wav|spectrograms\039616.npy|linear_spectrograms\039616.npy|Piqu̩ dans la vase et incorpor̩ dans une botte de roseaux.|
+039615|fr|fr|wavs/common_voice_fr_18278379.wav|spectrograms\039615.npy|linear_spectrograms\039615.npy|Je proposerai donc deux amendements visant �� tenir compte de cette caract̩ristique.|
+039614|fr|fr|wavs/common_voice_fr_18278386.wav|spectrograms\039614.npy|linear_spectrograms\039614.npy|J'ai des vices.|
+039613|fr|fr|wavs/common_voice_fr_18278387.wav|spectrograms\039613.npy|linear_spectrograms\039613.npy|Personne ne parlait.|
+039612|fr|fr|wavs/common_voice_fr_18278388.wav|spectrograms\039612.npy|linear_spectrograms\039612.npy|Une lettre de sa m̬re! Cela lui paraissait un miracle du ciel.|
+039611|fr|fr|wavs/common_voice_fr_18278389.wav|spectrograms\039611.npy|linear_spectrograms\039611.npy|J'habite en Californie.|
+039610|fr|fr|wavs/common_voice_fr_18278405.wav|spectrograms\039610.npy|linear_spectrograms\039610.npy|Il ̩tait l�� mais ses sons voil̩s semblaient venir de loin de bien loin.|
+039609|fr|fr|wavs/common_voice_fr_18278406.wav|spectrograms\039609.npy|linear_spectrograms\039609.npy|Il faut le r̩p̩ter �� temps et �� contretemps.|
+039608|fr|fr|wavs/common_voice_fr_18278407.wav|spectrograms\039608.npy|linear_spectrograms\039608.npy|Je suais sang et eau �� faire semblant d'̻tre calme.|
+039607|fr|fr|wavs/common_voice_fr_18278408.wav|spectrograms\039607.npy|linear_spectrograms\039607.npy|D'abord j�۪ai trouv̩ un excellent moyen.|
+039606|fr|fr|wavs/common_voice_fr_18278409.wav|spectrograms\039606.npy|linear_spectrograms\039606.npy|Quel ordre? Tonnerre! celui que je te demande et qu'il faut que tu me donnes.|
+039605|fr|fr|wavs/common_voice_fr_18278425.wav|spectrograms\039605.npy|linear_spectrograms\039605.npy|Pourvu que tout ne soit pas boulevers̩!|
+039604|fr|fr|wavs/common_voice_fr_18278426.wav|spectrograms\039604.npy|linear_spectrograms\039604.npy|Les orateurs de mon conseil vous feront conna�?tre ma volont̩ sur cet objet.|
+039603|fr|fr|wavs/common_voice_fr_18278427.wav|spectrograms\039603.npy|linear_spectrograms\039603.npy|Il ̩tait insens̩ de lui montrer le catholicisme par son aspect le plus choquant.|
+039602|fr|fr|wavs/common_voice_fr_18278429.wav|spectrograms\039602.npy|linear_spectrograms\039602.npy|Justin le regarda toujours.|
+039601|fr|fr|wavs/common_voice_fr_18278460.wav|spectrograms\039601.npy|linear_spectrograms\039601.npy|vingt-six chemin de Marieu quatre-vingt-deux mille quatre cent quarante R̩alville|
+039600|fr|fr|wavs/common_voice_fr_18278461.wav|spectrograms\039600.npy|linear_spectrograms\039600.npy|Route de Villech̩tive �� Dixmont|
+039599|fr|fr|wavs/common_voice_fr_18278462.wav|spectrograms\039599.npy|linear_spectrograms\039599.npy|comme cela dort ces jeunes gens!|
+039598|fr|fr|wavs/common_voice_fr_18278463.wav|spectrograms\039598.npy|linear_spectrograms\039598.npy|Celle-ci peut permettre de r̩unir des personnes ̩parpill̩es.|
+039597|fr|fr|wavs/common_voice_fr_18278464.wav|spectrograms\039597.npy|linear_spectrograms\039597.npy|sud Monsieur lui a accord̩ la d̩coration de la l̩gion d'honneur.|
+039596|fr|fr|wavs/common_voice_fr_18771125.wav|spectrograms\039596.npy|linear_spectrograms\039596.npy|Il n'avait jamais vu pareille pancarte.|
+039595|fr|fr|wavs/common_voice_fr_18771126.wav|spectrograms\039595.npy|linear_spectrograms\039595.npy|Tu sais ce qu'il faudrait?|
+039594|fr|fr|wavs/common_voice_fr_18771127.wav|spectrograms\039594.npy|linear_spectrograms\039594.npy|��lodie s'essuyait la bouche �� son mouchoir.|
+039593|fr|fr|wavs/common_voice_fr_18771128.wav|spectrograms\039593.npy|linear_spectrograms\039593.npy|Vous devrez l'assumer! Je le dis comme je le pense.|
+039592|fr|fr|wavs/common_voice_fr_18771129.wav|spectrograms\039592.npy|linear_spectrograms\039592.npy|Vous vous aimiez.|
+039591|fr|fr|wavs/common_voice_fr_18771145.wav|spectrograms\039591.npy|linear_spectrograms\039591.npy|Toute ma vie est en vous.|
+039590|fr|fr|wavs/common_voice_fr_18771146.wav|spectrograms\039590.npy|linear_spectrograms\039590.npy|Sa m̬re en veut encore autant.|
+039589|fr|fr|wavs/common_voice_fr_18771147.wav|spectrograms\039589.npy|linear_spectrograms\039589.npy|Quand il viendra je l'am̬nerai ici.|
+039588|fr|fr|wavs/common_voice_fr_18771149.wav|spectrograms\039588.npy|linear_spectrograms\039588.npy|Il s'est mis �� l'abri s��r et certain.|
+039587|fr|fr|wavs/common_voice_fr_18771165.wav|spectrograms\039587.npy|linear_spectrograms\039587.npy|Cet amendement est contraire aux choix de la commission.|
+039586|fr|fr|wavs/common_voice_fr_18771166.wav|spectrograms\039586.npy|linear_spectrograms\039586.npy|Ernest notre a�?n̩.|
+039585|fr|fr|wavs/common_voice_fr_18771167.wav|spectrograms\039585.npy|linear_spectrograms\039585.npy|Voyons monsieur est-ce que nous ne sommes pas heureux comme ̤a tous les deux?|
+039584|fr|fr|wavs/common_voice_fr_18771168.wav|spectrograms\039584.npy|linear_spectrograms\039584.npy|Alors vous me chassez?|
+039583|fr|fr|wavs/common_voice_fr_18771169.wav|spectrograms\039583.npy|linear_spectrograms\039583.npy|La parole est �� Monsieur Patrice Martin-Lalande pour soutenir l'amendement num̩ro cent quatre-vingt-dix.|
+039582|fr|fr|wavs/common_voice_fr_18771202.wav|spectrograms\039582.npy|linear_spectrograms\039582.npy|Il avait rendu visite �� Meudon sans voir Elvire.|
+039581|fr|fr|wavs/common_voice_fr_18771203.wav|spectrograms\039581.npy|linear_spectrograms\039581.npy|L'automobiliste n�۪a pas respect̩ le code de la route.|
+039580|fr|fr|wavs/common_voice_fr_18771204.wav|spectrograms\039580.npy|linear_spectrograms\039580.npy|Il ouvrit les yeux en disant: C'est Delphine! Eh! bien comment vas-tu? demanda-t-elle.|
+039579|fr|fr|wavs/common_voice_fr_18771230.wav|spectrograms\039579.npy|linear_spectrograms\039579.npy|En voil�� un qui en a fait de toutes les couleurs.|
+039578|fr|fr|wavs/common_voice_fr_18771231.wav|spectrograms\039578.npy|linear_spectrograms\039578.npy|Mais plus largement ce mot pour moi est le reflet du conservatisme|
+039577|fr|fr|wavs/common_voice_fr_18771234.wav|spectrograms\039577.npy|linear_spectrograms\039577.npy|J'ai demand̩ que vous m�۪apportassiez les rince-bouche.|
+039576|fr|fr|wavs/common_voice_fr_18771245.wav|spectrograms\039576.npy|linear_spectrograms\039576.npy|Quel beau temps pour la procession!|
+039575|fr|fr|wavs/common_voice_fr_18771246.wav|spectrograms\039575.npy|linear_spectrograms\039575.npy|En avant mon coeur!|
+039574|fr|fr|wavs/common_voice_fr_18771248.wav|spectrograms\039574.npy|linear_spectrograms\039574.npy|Qu'est-ce que c�۪est mauvais!|
+039573|fr|fr|wavs/common_voice_fr_18771249.wav|spectrograms\039573.npy|linear_spectrograms\039573.npy|Tous d'un seul cri.|
+039572|fr|fr|wavs/common_voice_fr_18771265.wav|spectrograms\039572.npy|linear_spectrograms\039572.npy|Je t'aime Frontin!|
+039571|fr|fr|wavs/common_voice_fr_18771266.wav|spectrograms\039571.npy|linear_spectrograms\039571.npy|Cela peut ̻tre perturbant nous pr̩f̩rons des candidats qui soient bien pr̩dispos̩s|
+039570|fr|fr|wavs/common_voice_fr_18771267.wav|spectrograms\039570.npy|linear_spectrograms\039570.npy|C'est le leur.|
+039569|fr|fr|wavs/common_voice_fr_18771268.wav|spectrograms\039569.npy|linear_spectrograms\039569.npy|La parole est �� Madame Fr̩d̩rique Massat pour soutenir l'amendement num̩ro cinq cent cinquante-huit.|
+039568|fr|fr|wavs/common_voice_fr_18771270.wav|spectrograms\039568.npy|linear_spectrograms\039568.npy|Madame Gaudin La probit̩!|
+039567|fr|fr|wavs/common_voice_fr_18771271.wav|spectrograms\039567.npy|linear_spectrograms\039567.npy|Le deuxi̬me acte �� Clermont.|
+039566|fr|fr|wavs/common_voice_fr_18771272.wav|spectrograms\039566.npy|linear_spectrograms\039566.npy|Place Voisin Ern̩e|
+039565|fr|fr|wavs/common_voice_fr_18771273.wav|spectrograms\039565.npy|linear_spectrograms\039565.npy|J'essaie de lui donner un coup de pouce.|
+039564|fr|fr|wavs/common_voice_fr_18771274.wav|spectrograms\039564.npy|linear_spectrograms\039564.npy|Mon argumentation est similaire.|
+039563|fr|fr|wavs/common_voice_fr_18771275.wav|spectrograms\039563.npy|linear_spectrograms\039563.npy|Lui aussi est d̩fendu madame la pr̩sidente.|
+039562|fr|fr|wavs/common_voice_fr_18771277.wav|spectrograms\039562.npy|linear_spectrograms\039562.npy|Combien ̤a co��te d'aller �� Miami?|
+039561|fr|fr|wavs/common_voice_fr_18771278.wav|spectrograms\039561.npy|linear_spectrograms\039561.npy|Elle avait fait de vous un vrai dandy disait-elle en jouant avec ses cheveux.|
+039560|fr|fr|wavs/common_voice_fr_18771280.wav|spectrograms\039560.npy|linear_spectrograms\039560.npy|Jusque-l�� les droits du premier ̩poux sont douteux et ceux du second sont nuls.|
+039559|fr|fr|wavs/common_voice_fr_18771281.wav|spectrograms\039559.npy|linear_spectrograms\039559.npy|Une trentaine d'̩tudiants.|
+039558|fr|fr|wavs/common_voice_fr_18771282.wav|spectrograms\039558.npy|linear_spectrograms\039558.npy|Il a chop̩ une maladie en Tha�?lande.|
+039557|fr|fr|wavs/common_voice_fr_18771283.wav|spectrograms\039557.npy|linear_spectrograms\039557.npy|L'explosion ̩branla leurs cr̢nes.|
+039556|fr|fr|wavs/common_voice_fr_18771285.wav|spectrograms\039556.npy|linear_spectrograms\039556.npy|Qui a ̩teint la lumi̬re?|
+039555|fr|fr|wavs/common_voice_fr_18771287.wav|spectrograms\039555.npy|linear_spectrograms\039555.npy|La renationalisation des autoroutes est pour nous une n̩cessit̩.|
+039554|fr|fr|wavs/common_voice_fr_18771288.wav|spectrograms\039554.npy|linear_spectrograms\039554.npy|Arnaud a d̩missionn̩ la semaine derni̬re.|
+039553|fr|fr|wavs/common_voice_fr_18771290.wav|spectrograms\039553.npy|linear_spectrograms\039553.npy|La quatri̬me.|
+039552|fr|fr|wavs/common_voice_fr_18771292.wav|spectrograms\039552.npy|linear_spectrograms\039552.npy|On ne supprimera pas la respiration ni pas davantage la Presse.|
+039551|fr|fr|wavs/common_voice_fr_18771293.wav|spectrograms\039551.npy|linear_spectrograms\039551.npy|Prends garde! jenny et GABRIELLE.|
+039550|fr|fr|wavs/common_voice_fr_18771294.wav|spectrograms\039550.npy|linear_spectrograms\039550.npy|Ils ̩taient plus ou moins malades.|
+039549|fr|fr|wavs/common_voice_fr_18771295.wav|spectrograms\039549.npy|linear_spectrograms\039549.npy|L'enfant s'̩tait endormi.|
+039548|fr|fr|wavs/common_voice_fr_18771296.wav|spectrograms\039548.npy|linear_spectrograms\039548.npy|Est-on bien nourri?|
+039547|fr|fr|wavs/common_voice_fr_18771297.wav|spectrograms\039547.npy|linear_spectrograms\039547.npy|Et c'est nous qui les avons forc̩s �� se contredire les absolutistes!|
+039546|fr|fr|wavs/common_voice_fr_18771298.wav|spectrograms\039546.npy|linear_spectrograms\039546.npy|Quel est l'avis de la commission sur ces amendements monsieur le rapporteur? Avis d̩favorable.|
+039545|fr|fr|wavs/common_voice_fr_18771299.wav|spectrograms\039545.npy|linear_spectrograms\039545.npy|J'en ai profit̩ pour mettre le nez dehors.|
+039544|fr|fr|wavs/common_voice_fr_18493591.wav|spectrograms\039544.npy|linear_spectrograms\039544.npy|Ta fille est-elle pr̩venue?|
+039543|fr|fr|wavs/common_voice_fr_18493592.wav|spectrograms\039543.npy|linear_spectrograms\039543.npy|Un morceau de sucre.|
+039542|fr|fr|wavs/common_voice_fr_18493593.wav|spectrograms\039542.npy|linear_spectrograms\039542.npy|C'est ̤a ta surprise Pacarel.|
+039541|fr|fr|wavs/common_voice_fr_18493594.wav|spectrograms\039541.npy|linear_spectrograms\039541.npy|Le docteur aimait il essaya de lutter.|
+039540|fr|fr|wavs/common_voice_fr_18493595.wav|spectrograms\039540.npy|linear_spectrograms\039540.npy|De longues secousses l'̩branl̬rent.|
+039539|fr|fr|wavs/common_voice_fr_18493596.wav|spectrograms\039539.npy|linear_spectrograms\039539.npy|Comment je fais pour aller �� l'ambassade des ��tats-Unis?|
+039538|fr|fr|wavs/common_voice_fr_18493597.wav|spectrograms\039538.npy|linear_spectrograms\039538.npy|Le temps ̩tait beau.|
+039537|fr|fr|wavs/common_voice_fr_18493598.wav|spectrograms\039537.npy|linear_spectrograms\039537.npy|Jamais sud M. au milieu des plus grandes fatigues ne s'est mieux port̩e.|
+039536|fr|fr|wavs/common_voice_fr_18493599.wav|spectrograms\039536.npy|linear_spectrograms\039536.npy|Elle n'est pas de ces pauvres filles que sacrifient des ingrats?|
+039535|fr|fr|wavs/common_voice_fr_18493601.wav|spectrograms\039535.npy|linear_spectrograms\039535.npy|Il sera attrap̩ si les policiers le reconnaissent.|
+039534|fr|fr|wavs/common_voice_fr_18493602.wav|spectrograms\039534.npy|linear_spectrograms\039534.npy|Dans le cadre des trentepourcent le mot locaux me para�?t donc de trop.|
+039533|fr|fr|wavs/common_voice_fr_18493603.wav|spectrograms\039533.npy|linear_spectrograms\039533.npy|Sans l̢cher prise le v̩t̩ran recula contre le mur.|
+039532|fr|fr|wavs/common_voice_fr_18493604.wav|spectrograms\039532.npy|linear_spectrograms\039532.npy|Venez.|
+039531|fr|fr|wavs/common_voice_fr_18493605.wav|spectrograms\039531.npy|linear_spectrograms\039531.npy|Un point de droit byzantin est discutable.|
+039530|fr|fr|wavs/common_voice_fr_18493606.wav|spectrograms\039530.npy|linear_spectrograms\039530.npy|Une chapelle petite et jolie.|
+039529|fr|fr|wavs/common_voice_fr_18493607.wav|spectrograms\039529.npy|linear_spectrograms\039529.npy|Voil�� mon avis Messieurs!|
+039528|fr|fr|wavs/common_voice_fr_18493609.wav|spectrograms\039528.npy|linear_spectrograms\039528.npy|Vous go��teriez encore ces d̩lices sans nom.|
+039527|fr|fr|wavs/common_voice_fr_18493610.wav|spectrograms\039527.npy|linear_spectrograms\039527.npy|Un moucheron est tomb̩ dans le verre.|
+039526|fr|fr|wavs/common_voice_fr_18493616.wav|spectrograms\039526.npy|linear_spectrograms\039526.npy|La pr̩sentation du billet d'entr̩e est suffisante il n�۪y a rien �� payer en sus.|
+039525|fr|fr|wavs/common_voice_fr_18493618.wav|spectrograms\039525.npy|linear_spectrograms\039525.npy|C'est pourquoi je voterai contre l�۪amendement du Gouvernement.|
+039524|fr|fr|wavs/common_voice_fr_18493619.wav|spectrograms\039524.npy|linear_spectrograms\039524.npy|La parole est �� Madame Jacqueline Fraysse pour soutenir l'amendement num̩ro deux cent six.|
+039523|fr|fr|wavs/common_voice_fr_18493620.wav|spectrograms\039523.npy|linear_spectrograms\039523.npy|Il est donc temps de la rectifier en votant ces deux amendements.|
+039522|fr|fr|wavs/common_voice_fr_18493621.wav|spectrograms\039522.npy|linear_spectrograms\039522.npy|Le fort.|
+039521|fr|fr|wavs/common_voice_fr_18493622.wav|spectrograms\039521.npy|linear_spectrograms\039521.npy|Je n'ai pas le temps l��.|
+039520|fr|fr|wavs/common_voice_fr_18493623.wav|spectrograms\039520.npy|linear_spectrograms\039520.npy|Leur guitare italienne est trop accompagn̩e du bruit des cha�?nes!|
+039519|fr|fr|wavs/common_voice_fr_18493625.wav|spectrograms\039519.npy|linear_spectrograms\039519.npy|Schoenbrunn treize mai mille huit cent neuf.|
+039518|fr|fr|wavs/common_voice_fr_18493626.wav|spectrograms\039518.npy|linear_spectrograms\039518.npy|Murmurez �� l'oreille de celle-ci et faites-la parler avec les ̢mes.|
+039517|fr|fr|wavs/common_voice_fr_18493627.wav|spectrograms\039517.npy|linear_spectrograms\039517.npy|Eux ils aimeront.|
+039516|fr|fr|wavs/common_voice_fr_18493628.wav|spectrograms\039516.npy|linear_spectrograms\039516.npy|Ils lisent.|
+039515|fr|fr|wavs/common_voice_fr_18493629.wav|spectrograms\039515.npy|linear_spectrograms\039515.npy|soixante-quatorze rue Charles Plessard quatre-vingt-six cent Ch̢tellerault|
+039514|fr|fr|wavs/common_voice_fr_18493630.wav|spectrograms\039514.npy|linear_spectrograms\039514.npy|Vu de Marseille? Pas la m̻me langue? Quelle langue?|
+039513|fr|fr|wavs/common_voice_fr_18493631.wav|spectrograms\039513.npy|linear_spectrograms\039513.npy|La pi̬ce ̩tait surcharg̩e de papiers dispos̩s en d̩sordre sur le bureau|
+039512|fr|fr|wavs/common_voice_fr_18493632.wav|spectrograms\039512.npy|linear_spectrograms\039512.npy|Ne pensaient-ils point �� l'urgence d'enrichir la filature de Marchiennes?|
+039511|fr|fr|wavs/common_voice_fr_18493633.wav|spectrograms\039511.npy|linear_spectrograms\039511.npy|Faudrait quand m̻me trouver un moyen de les d̩foncer �� Matignon.|
+039510|fr|fr|wavs/common_voice_fr_18493634.wav|spectrograms\039510.npy|linear_spectrograms\039510.npy|Les gens sont arriv̩s ici.|
+039509|fr|fr|wavs/common_voice_fr_18493635.wav|spectrograms\039509.npy|linear_spectrograms\039509.npy|Omer examinait l'oeuvre m̩diocre.|
+039508|fr|fr|wavs/common_voice_fr_18493636.wav|spectrograms\039508.npy|linear_spectrograms\039508.npy|La tienne.|
+039507|fr|fr|wavs/common_voice_fr_18493638.wav|spectrograms\039507.npy|linear_spectrograms\039507.npy|Elles ont de ces raisonnements!|
+039506|fr|fr|wavs/common_voice_fr_18493639.wav|spectrograms\039506.npy|linear_spectrograms\039506.npy|On mange le far avec les mains.|
+039505|fr|fr|wavs/common_voice_fr_18493640.wav|spectrograms\039505.npy|linear_spectrograms\039505.npy|Elle est chaude.|
+039504|fr|fr|wavs/common_voice_fr_18493641.wav|spectrograms\039504.npy|linear_spectrograms\039504.npy|Tant il fleure bon!|
+039503|fr|fr|wavs/common_voice_fr_18493642.wav|spectrograms\039503.npy|linear_spectrograms\039503.npy|Marie ne comprenait pas comment la situation avait pu d̩g̩n̩rer aussi vite.|
+039502|fr|fr|wavs/common_voice_fr_18493643.wav|spectrograms\039502.npy|linear_spectrograms\039502.npy|�� table.|
+039501|fr|fr|wavs/common_voice_fr_18493644.wav|spectrograms\039501.npy|linear_spectrograms\039501.npy|Je ne crois pas qu'elles viendront.|
+039500|fr|fr|wavs/common_voice_fr_18493645.wav|spectrograms\039500.npy|linear_spectrograms\039500.npy|Il ne fait pas froid?|
+039499|fr|fr|wavs/common_voice_fr_18493646.wav|spectrograms\039499.npy|linear_spectrograms\039499.npy|Sa main tordait le tuyau du larynx �� travers la peau flasque.|
+039498|fr|fr|wavs/common_voice_fr_18493647.wav|spectrograms\039498.npy|linear_spectrograms\039498.npy|l'adresse cinq rue Desrousseaux.|
+039497|fr|fr|wavs/common_voice_fr_18493648.wav|spectrograms\039497.npy|linear_spectrograms\039497.npy|COLLABORATEUR: Monsieur MARC-MICHEL PERSONNAGES Acteurs qui ont cr̩̩ les r̫les.|
+039496|fr|fr|wavs/common_voice_fr_18493649.wav|spectrograms\039496.npy|linear_spectrograms\039496.npy|On ne parle ici que d'̩tats d�۪information comme dans un programme.|
+039495|fr|fr|wavs/common_voice_fr_18493650.wav|spectrograms\039495.npy|linear_spectrograms\039495.npy|Je n'en mourrai pas je vous jure.|
+039494|fr|fr|wavs/common_voice_fr_18493651.wav|spectrograms\039494.npy|linear_spectrograms\039494.npy|Ah! j'en ai mal �� la t̻te!|
+039493|fr|fr|wavs/common_voice_fr_18493652.wav|spectrograms\039493.npy|linear_spectrograms\039493.npy|J'accepte toutes les conditions dis-je �� mon mari.|
+039492|fr|fr|wavs/common_voice_fr_18493653.wav|spectrograms\039492.npy|linear_spectrograms\039492.npy|Et ce conte bleu est bien longuement bien lourdement ̩crit.|
+039491|fr|fr|wavs/common_voice_fr_18493654.wav|spectrograms\039491.npy|linear_spectrograms\039491.npy|vingt-deux rue Tridard|
+039490|fr|fr|wavs/common_voice_fr_18493655.wav|spectrograms\039490.npy|linear_spectrograms\039490.npy|J'̩chappe �� tous les ennuis et �� tous les bruits fatigants.|
+039489|fr|fr|wavs/common_voice_fr_18493656.wav|spectrograms\039489.npy|linear_spectrograms\039489.npy|Je le retirerai en effet apr̬s l'avoir malgr̩ tout pr̩sent̩ bien ̩videmment.|
+039488|fr|fr|wavs/common_voice_fr_18493657.wav|spectrograms\039488.npy|linear_spectrograms\039488.npy|Nous arriverons une heure plus tard r̩pondit Marcof.|
+039487|fr|fr|wavs/common_voice_fr_18493658.wav|spectrograms\039487.npy|linear_spectrograms\039487.npy|On essayera en vain de lui couper la route.|
+039486|fr|fr|wavs/common_voice_fr_18493660.wav|spectrograms\039486.npy|linear_spectrograms\039486.npy|Vous avez men̩ ̤a tous les deux tambour battant!|
+039485|fr|fr|wavs/common_voice_fr_18493661.wav|spectrograms\039485.npy|linear_spectrograms\039485.npy|dix-huit route des L̬zes quatre-vingt-sept mille cinq cent dix Saint-Jouvent|
+039484|fr|fr|wavs/common_voice_fr_18493663.wav|spectrograms\039484.npy|linear_spectrograms\039484.npy|Un m̬tre carr̩ et quart.|
+039483|fr|fr|wavs/common_voice_fr_18493664.wav|spectrograms\039483.npy|linear_spectrograms\039483.npy|mais d'ici l�� j�۪aime autant que ce soit du pinard.|
+039482|fr|fr|wavs/common_voice_fr_18493666.wav|spectrograms\039482.npy|linear_spectrograms\039482.npy|Alors t̢chez qu'ils vous plaisent.|
+039481|fr|fr|wavs/common_voice_fr_18493667.wav|spectrograms\039481.npy|linear_spectrograms\039481.npy|Tu crois pas?|
+039480|fr|fr|wavs/common_voice_fr_18493668.wav|spectrograms\039480.npy|linear_spectrograms\039480.npy|La parole est �� Madame Annie Genevard pour soutenir l'amendement num̩ro deux cent vingt.|
+039479|fr|fr|wavs/common_voice_fr_18493669.wav|spectrograms\039479.npy|linear_spectrograms\039479.npy|Soixante et un.|
+039478|fr|fr|wavs/common_voice_fr_18493670.wav|spectrograms\039478.npy|linear_spectrograms\039478.npy|Ce Bulgare ̩tait chr̩tien grec ainsi qu'une partie de ses sujets.|
+039477|fr|fr|wavs/common_voice_fr_18493671.wav|spectrograms\039477.npy|linear_spectrograms\039477.npy|Moi je lisais.|
+039476|fr|fr|wavs/common_voice_fr_18493672.wav|spectrograms\039476.npy|linear_spectrograms\039476.npy|Elle rentre dans la chambre dont la porte reste ouverte.|
+039475|fr|fr|wavs/common_voice_fr_18493673.wav|spectrograms\039475.npy|linear_spectrograms\039475.npy|Il est tard je vais me coucher.|
+039474|fr|fr|wavs/common_voice_fr_18493674.wav|spectrograms\039474.npy|linear_spectrograms\039474.npy|Rapport au G̩n̩ral La Fayette sur l'enl̬vement des poudres de Soissons. Paris Impr.|
+039473|fr|fr|wavs/common_voice_fr_18493675.wav|spectrograms\039473.npy|linear_spectrograms\039473.npy|J'aimerais aller au magasin.|
+039472|fr|fr|wavs/common_voice_fr_18493676.wav|spectrograms\039472.npy|linear_spectrograms\039472.npy|Elle doit ̻tre ensevelie sous ses ruines.|
+039471|fr|fr|wavs/common_voice_fr_18493677.wav|spectrograms\039471.npy|linear_spectrograms\039471.npy|Flora C'est pas vrai.|
+039470|fr|fr|wavs/common_voice_fr_18493678.wav|spectrograms\039470.npy|linear_spectrograms\039470.npy|Personne ne saurait dire comment ̤a a commenc̩.|
+039469|fr|fr|wavs/common_voice_fr_18493679.wav|spectrograms\039469.npy|linear_spectrograms\039469.npy|Les frais d'entretien existaient: la question a donc d̩j�� ̩t̩ pos̩e.|
+039468|fr|fr|wavs/common_voice_fr_18493680.wav|spectrograms\039468.npy|linear_spectrograms\039468.npy|Ses expressions picardes revenaient quand il ̩tait ̩nerv̩.|
+039467|fr|fr|wavs/common_voice_fr_18493682.wav|spectrograms\039467.npy|linear_spectrograms\039467.npy|J'appartiens d'abord au devoir.|
+039466|fr|fr|wavs/common_voice_fr_18493683.wav|spectrograms\039466.npy|linear_spectrograms\039466.npy|Rien n'est plus fou plus amusant.|
+039465|fr|fr|wavs/common_voice_fr_18493684.wav|spectrograms\039465.npy|linear_spectrograms\039465.npy|Tu vois ce que je veux dire?|
+039464|fr|fr|wavs/common_voice_fr_18493685.wav|spectrograms\039464.npy|linear_spectrograms\039464.npy|Il a ̩t̩ vir̩.|
+039463|fr|fr|wavs/common_voice_fr_18493686.wav|spectrograms\039463.npy|linear_spectrograms\039463.npy|Que Monsieur soit tranquille!|
+039462|fr|fr|wavs/common_voice_fr_18493687.wav|spectrograms\039462.npy|linear_spectrograms\039462.npy|Henri huit ̩tait venu avec Anne Boleyn.|
+039461|fr|fr|wavs/common_voice_fr_18493688.wav|spectrograms\039461.npy|linear_spectrograms\039461.npy|Horaires d'ouverture: lundi mercredi vendredi de quatorze heures �� dix-huit heures trente.|
+039460|fr|fr|wavs/common_voice_fr_18493689.wav|spectrograms\039460.npy|linear_spectrograms\039460.npy|Le jaune.|
+039459|fr|fr|wavs/common_voice_fr_18493690.wav|spectrograms\039459.npy|linear_spectrograms\039459.npy|Votre amendement est-il maintenu? Je le retire.|
+039458|fr|fr|wavs/common_voice_fr_18493691.wav|spectrograms\039458.npy|linear_spectrograms\039458.npy|Trois coups.|
+039457|fr|fr|wavs/common_voice_fr_18493692.wav|spectrograms\039457.npy|linear_spectrograms\039457.npy|cinq rue Lucien Royer quatre-vingt-quinze mille trois cent quarante Persan|
+039456|fr|fr|wavs/common_voice_fr_18493693.wav|spectrograms\039456.npy|linear_spectrograms\039456.npy|Ce serait alors inhumain de la chasser tout de m̻me.|
+039455|fr|fr|wavs/common_voice_fr_18493694.wav|spectrograms\039455.npy|linear_spectrograms\039455.npy|On ne va pas r̩ussir �� la d̩bloquer de fa̤on fiable m̻me sous hypnose.|
+039454|fr|fr|wavs/common_voice_fr_18493695.wav|spectrograms\039454.npy|linear_spectrograms\039454.npy|Elle ne veut pas partir.|
+039453|fr|fr|wavs/common_voice_fr_18493696.wav|spectrograms\039453.npy|linear_spectrograms\039453.npy|Je ne peux pas faire le zazou moi j'ai ̩cole demain.|
+039452|fr|fr|wavs/common_voice_fr_18493697.wav|spectrograms\039452.npy|linear_spectrograms\039452.npy|Elles ont soif.|
+039451|fr|fr|wavs/common_voice_fr_18493698.wav|spectrograms\039451.npy|linear_spectrograms\039451.npy|Je vais �� table.|
+039450|fr|fr|wavs/common_voice_fr_18493699.wav|spectrograms\039450.npy|linear_spectrograms\039450.npy|Il se consulta pendant les secondes qui s'̩coul̬rent.|
+039449|fr|fr|wavs/common_voice_fr_18493700.wav|spectrograms\039449.npy|linear_spectrograms\039449.npy|Mais il y avait sur la table une lettre �� mon adresse|
+039448|fr|fr|wavs/common_voice_fr_18493701.wav|spectrograms\039448.npy|linear_spectrograms\039448.npy|vingt rue Remondet Lacroix|
+039447|fr|fr|wavs/common_voice_fr_18493703.wav|spectrograms\039447.npy|linear_spectrograms\039447.npy|Elle a pri̩ pour votre bonheur.|
+039446|fr|fr|wavs/common_voice_fr_18493704.wav|spectrograms\039446.npy|linear_spectrograms\039446.npy|J'aimerais parler �� monsieur Smith s�۪il vous plait.|
+039445|fr|fr|wavs/common_voice_fr_18493705.wav|spectrograms\039445.npy|linear_spectrograms\039445.npy|douze lotissement Les Moulins|
+039444|fr|fr|wavs/common_voice_fr_18493706.wav|spectrograms\039444.npy|linear_spectrograms\039444.npy|Tu n'as pas vu la figure qu�۪il faisait Monsieur de Rothschild?|
+039443|fr|fr|wavs/common_voice_fr_18493707.wav|spectrograms\039443.npy|linear_spectrograms\039443.npy|Six.|
+039442|fr|fr|wavs/common_voice_fr_18493708.wav|spectrograms\039442.npy|linear_spectrograms\039442.npy|Quel est l'avis du Gouvernement? M̻me avis que le rapporteur.|
+039441|fr|fr|wavs/common_voice_fr_18493709.wav|spectrograms\039441.npy|linear_spectrograms\039441.npy|Les bonnes.|
+039440|fr|fr|wavs/common_voice_fr_18493710.wav|spectrograms\039440.npy|linear_spectrograms\039440.npy|C'est la r̩flexion que fait Guillaume Grimm (trois p.|
+039439|fr|fr|wavs/common_voice_fr_18493711.wav|spectrograms\039439.npy|linear_spectrograms\039439.npy|Monsieur Papavert! quel ennui!|
+039438|fr|fr|wavs/common_voice_fr_18493712.wav|spectrograms\039438.npy|linear_spectrograms\039438.npy|Que vous l'accusiez!|
+039437|fr|fr|wavs/common_voice_fr_18493713.wav|spectrograms\039437.npy|linear_spectrograms\039437.npy|Je le sais parfaitement.|
+039436|fr|fr|wavs/common_voice_fr_18493715.wav|spectrograms\039436.npy|linear_spectrograms\039436.npy|Mais dans tous ces r̩cits qu'y a-t-il de vrai? demanda Conseil.|
+039435|fr|fr|wavs/common_voice_fr_18493716.wav|spectrograms\039435.npy|linear_spectrograms\039435.npy|Je ne suis pas certain que sans ce nouveau scandale nous soyons all̩s aussi loin.|
+039434|fr|fr|wavs/common_voice_fr_18493717.wav|spectrograms\039434.npy|linear_spectrograms\039434.npy|Les pauvres diables que c'̩taient l��!|
+039433|fr|fr|wavs/common_voice_fr_18493718.wav|spectrograms\039433.npy|linear_spectrograms\039433.npy|Tr̬s bien! La parole est �� Monsieur Marc Le Fur.|
+039432|fr|fr|wavs/common_voice_fr_18493719.wav|spectrograms\039432.npy|linear_spectrograms\039432.npy|Il y a trois mois.|
+039431|fr|fr|wavs/common_voice_fr_18493720.wav|spectrograms\039431.npy|linear_spectrograms\039431.npy|Elle ne p̻che pas.|
+039430|fr|fr|wavs/common_voice_fr_18493721.wav|spectrograms\039430.npy|linear_spectrograms\039430.npy|Le temps passe passe.|
+039429|fr|fr|wavs/common_voice_fr_18493722.wav|spectrograms\039429.npy|linear_spectrograms\039429.npy|mais nous rien on va se tra�?ner les boulets jusqu'au bout.|
+039428|fr|fr|wavs/common_voice_fr_18493723.wav|spectrograms\039428.npy|linear_spectrograms\039428.npy|Vers les midi Julien arriva.|
+039427|fr|fr|wavs/common_voice_fr_18493724.wav|spectrograms\039427.npy|linear_spectrograms\039427.npy|La parole est �� Madame Val̩rie Boyer pour soutenir l'amendement num̩ro quatre-vingt-dix-huit.|
+039426|fr|fr|wavs/common_voice_fr_18493725.wav|spectrograms\039426.npy|linear_spectrograms\039426.npy|Il allait se coucher quand il avait d�?n̩.|
+039425|fr|fr|wavs/common_voice_fr_18493727.wav|spectrograms\039425.npy|linear_spectrograms\039425.npy|Tous �� l'exception de la soeur savaient l'affreuse accusation qui pesait sur Albert.|
+039424|fr|fr|wavs/common_voice_fr_18493728.wav|spectrograms\039424.npy|linear_spectrograms\039424.npy|Il est d̩fendu madame la pr̩sidente.|
+039423|fr|fr|wavs/common_voice_fr_18493729.wav|spectrograms\039423.npy|linear_spectrograms\039423.npy|Bien qu'il f��t en col̬re il essayait de se calmer.|
+039422|fr|fr|wavs/common_voice_fr_18493730.wav|spectrograms\039422.npy|linear_spectrograms\039422.npy|Tu mords le tableau?|
+039421|fr|fr|wavs/common_voice_fr_18493731.wav|spectrograms\039421.npy|linear_spectrograms\039421.npy|Je pr̩f̬re voir mes enfants morts.|
+039420|fr|fr|wavs/common_voice_fr_18493732.wav|spectrograms\039420.npy|linear_spectrograms\039420.npy|mille cent dix-cinq dans sa r̩daction r̩sultant de la loi.|
+039419|fr|fr|wavs/common_voice_fr_18493733.wav|spectrograms\039419.npy|linear_spectrograms\039419.npy|Un aller ou un voyage aller-retour?|
+039418|fr|fr|wavs/common_voice_fr_18493735.wav|spectrograms\039418.npy|linear_spectrograms\039418.npy|Votre vin.|
+039417|fr|fr|wavs/common_voice_fr_18493736.wav|spectrograms\039417.npy|linear_spectrograms\039417.npy|Ma cousine voulez-vous me permettre de vous souhaiter?|
+039416|fr|fr|wavs/common_voice_fr_18493737.wav|spectrograms\039416.npy|linear_spectrograms\039416.npy|Mais il n'y aura pas un chat l��-bas c�۪est dimanche soir vous ne verrez rien.|
+039415|fr|fr|wavs/common_voice_fr_18493738.wav|spectrograms\039415.npy|linear_spectrograms\039415.npy|Il n'avait pas senti la situation se d̩grader.|
+039414|fr|fr|wavs/common_voice_fr_18493739.wav|spectrograms\039414.npy|linear_spectrograms\039414.npy|Ce n'est pas respectueux du r̫le des ̩lus locaux.|
+039413|fr|fr|wavs/common_voice_fr_18493740.wav|spectrograms\039413.npy|linear_spectrograms\039413.npy|Monferrand y sera il l'a promis �� Duvillard.|
+039412|fr|fr|wavs/common_voice_fr_18493741.wav|spectrograms\039412.npy|linear_spectrograms\039412.npy|J'ai dit que depuis quelque temps tu donnais des signes d�۪ali̩nation mentale.|
+039411|fr|fr|wavs/common_voice_fr_18493743.wav|spectrograms\039411.npy|linear_spectrograms\039411.npy|Le Rival lui parlait.|
+039410|fr|fr|wavs/common_voice_fr_18493744.wav|spectrograms\039410.npy|linear_spectrograms\039410.npy|Une amie s̩rieuse et digne de confiance vous offre un asile acceptez-le ouvrez les yeux.|
+039409|fr|fr|wavs/common_voice_fr_18493745.wav|spectrograms\039409.npy|linear_spectrograms\039409.npy|Ce fut en effet leur avis.|
+039408|fr|fr|wavs/common_voice_fr_18408473.wav|spectrograms\039408.npy|linear_spectrograms\039408.npy|Des gens bizarres.|
+039407|fr|fr|wavs/common_voice_fr_18408474.wav|spectrograms\039407.npy|linear_spectrograms\039407.npy|Tu joues tous les jours.|
+039406|fr|fr|wavs/common_voice_fr_18408475.wav|spectrograms\039406.npy|linear_spectrograms\039406.npy|Six.|
+039405|fr|fr|wavs/common_voice_fr_18408476.wav|spectrograms\039405.npy|linear_spectrograms\039405.npy|Nous aimerions ta soeur.|
+039404|fr|fr|wavs/common_voice_fr_18408477.wav|spectrograms\039404.npy|linear_spectrograms\039404.npy|Venez.|
+039403|fr|fr|wavs/common_voice_fr_18408478.wav|spectrograms\039403.npy|linear_spectrograms\039403.npy|Dolor̬s alors s'affaissa mollement.|
+039402|fr|fr|wavs/common_voice_fr_18408479.wav|spectrograms\039402.npy|linear_spectrograms\039402.npy|��a nous a co��t̩ cher.|
+039401|fr|fr|wavs/common_voice_fr_18408480.wav|spectrograms\039401.npy|linear_spectrograms\039401.npy|Ne vous tourmentez pas jeune homme.|
+039400|fr|fr|wavs/common_voice_fr_18408481.wav|spectrograms\039400.npy|linear_spectrograms\039400.npy|Bonne lecture.|
+039399|fr|fr|wavs/common_voice_fr_18408482.wav|spectrograms\039399.npy|linear_spectrograms\039399.npy|Il les plia et les mit dans la poche de sa chemise.|
+039398|fr|fr|wavs/common_voice_fr_18408483.wav|spectrograms\039398.npy|linear_spectrograms\039398.npy|Bernard voulait tant que ta Denise ̩pous̢t mon ��douard.|
+039397|fr|fr|wavs/common_voice_fr_18408484.wav|spectrograms\039397.npy|linear_spectrograms\039397.npy|Je ne serai qu'une chose douce savoureuse et provisoire.|
+039396|fr|fr|wavs/common_voice_fr_18408485.wav|spectrograms\039396.npy|linear_spectrograms\039396.npy|Les sonneries des cloches redoubl̬rent.|
+039395|fr|fr|wavs/common_voice_fr_18408486.wav|spectrograms\039395.npy|linear_spectrograms\039395.npy|Cinquante.|
+039394|fr|fr|wavs/common_voice_fr_18408494.wav|spectrograms\039394.npy|linear_spectrograms\039394.npy|Tu pourras apporter le tableau que nous avions fait sur ton ordinateur avant la r̩union.|
+039393|fr|fr|wavs/common_voice_fr_18408495.wav|spectrograms\039393.npy|linear_spectrograms\039393.npy|Vous voulez que ̤a fonctionne Sara. Et ̤a fonctionne.|
+039392|fr|fr|wavs/common_voice_fr_18408496.wav|spectrograms\039392.npy|linear_spectrograms\039392.npy|En quatri̬me.|
+039391|fr|fr|wavs/common_voice_fr_18408497.wav|spectrograms\039391.npy|linear_spectrograms\039391.npy|Le pr̩fet lui ob̩issait.|
+039390|fr|fr|wavs/common_voice_fr_18408508.wav|spectrograms\039390.npy|linear_spectrograms\039390.npy|le principe d'̩quivalence entre chaleur et ̩nergie.|
+039389|fr|fr|wavs/common_voice_fr_18408510.wav|spectrograms\039389.npy|linear_spectrograms\039389.npy|Nous avons pass̩ un bon moment avec vous.|
+039388|fr|fr|wavs/common_voice_fr_18408511.wav|spectrograms\039388.npy|linear_spectrograms\039388.npy|Sara nous sommes tr̬s confiants sur les r̩sultats du test.|
+039387|fr|fr|wavs/common_voice_fr_18408512.wav|spectrograms\039387.npy|linear_spectrograms\039387.npy|Il se t̢te les muscles.|
+039386|fr|fr|wavs/common_voice_fr_18408513.wav|spectrograms\039386.npy|linear_spectrograms\039386.npy|ils ramassaient tout ce que le coin comptait de psychopathes et de tordus.|
+039385|fr|fr|wavs/common_voice_fr_18408515.wav|spectrograms\039385.npy|linear_spectrograms\039385.npy|Omer n'̩vita point la discussion.|
+039384|fr|fr|wavs/common_voice_fr_18408516.wav|spectrograms\039384.npy|linear_spectrograms\039384.npy|En second.|
+039383|fr|fr|wavs/common_voice_fr_18408517.wav|spectrograms\039383.npy|linear_spectrograms\039383.npy|Il a r̩ussi en travaillant dur.|
+039382|fr|fr|wavs/common_voice_fr_18408518.wav|spectrograms\039382.npy|linear_spectrograms\039382.npy|Il a ̩t̩ vir̩.|
+039381|fr|fr|wavs/common_voice_fr_18408523.wav|spectrograms\039381.npy|linear_spectrograms\039381.npy|le champ ̩lectrique d̩rive d'un potentiel|
+039380|fr|fr|wavs/common_voice_fr_18408524.wav|spectrograms\039380.npy|linear_spectrograms\039380.npy|Toi tu es aim̩.|
+039379|fr|fr|wavs/common_voice_fr_18408525.wav|spectrograms\039379.npy|linear_spectrograms\039379.npy|Elle est puissante.|
+039378|fr|fr|wavs/common_voice_fr_18408526.wav|spectrograms\039378.npy|linear_spectrograms\039378.npy|Il tendait les bras �� ma m̬re qui ouvrait la porte en haut.|
+039377|fr|fr|wavs/common_voice_fr_18408527.wav|spectrograms\039377.npy|linear_spectrograms\039377.npy|Leurs chambres.|
+039376|fr|fr|wavs/common_voice_fr_18408528.wav|spectrograms\039376.npy|linear_spectrograms\039376.npy|Alors brusquement sa voix devenait col̩rique et p̩remptoire.|
+039375|fr|fr|wavs/common_voice_fr_18408529.wav|spectrograms\039375.npy|linear_spectrograms\039375.npy|La R̩publique dominicaine.|
+039374|fr|fr|wavs/common_voice_fr_18408530.wav|spectrograms\039374.npy|linear_spectrograms\039374.npy|Savons-nous d'ailleurs ce qui se trame en Mor̩e?|
+039373|fr|fr|wavs/common_voice_fr_18408531.wav|spectrograms\039373.npy|linear_spectrograms\039373.npy|Treize maisons.|
+039372|fr|fr|wavs/common_voice_fr_18408533.wav|spectrograms\039372.npy|linear_spectrograms\039372.npy|Murmurez �� l'oreille de celle-ci et faites-la parler avec les ̢mes.|
+039371|fr|fr|wavs/common_voice_fr_18408534.wav|spectrograms\039371.npy|linear_spectrograms\039371.npy|Demain je laverai le linge.|
+039370|fr|fr|wavs/common_voice_fr_18408535.wav|spectrograms\039370.npy|linear_spectrograms\039370.npy|Il y a un tas de choses bon-march̩ dans ce magasin.|
+039369|fr|fr|wavs/common_voice_fr_18408536.wav|spectrograms\039369.npy|linear_spectrograms\039369.npy|Le capitaine Lyrisse discuta la proposition sans l'adopter.|
+039368|fr|fr|wavs/common_voice_fr_18408537.wav|spectrograms\039368.npy|linear_spectrograms\039368.npy|Je ne suis pas programmeur comme vous le savez.|
+039367|fr|fr|wavs/common_voice_fr_18408538.wav|spectrograms\039367.npy|linear_spectrograms\039367.npy|Il plia le bout de papier et le mit dans sa poche.|
+039366|fr|fr|wavs/common_voice_fr_18408539.wav|spectrograms\039366.npy|linear_spectrograms\039366.npy|Le bateau de p̻che.|
+039365|fr|fr|wavs/common_voice_fr_18408540.wav|spectrograms\039365.npy|linear_spectrograms\039365.npy|On entendit peu de choses.|
+039364|fr|fr|wavs/common_voice_fr_18408541.wav|spectrograms\039364.npy|linear_spectrograms\039364.npy|Elles le poss̩daient totalement.|
+039363|fr|fr|wavs/common_voice_fr_18408543.wav|spectrograms\039363.npy|linear_spectrograms\039363.npy|Toute cette intrigue valut de la fi̬vre �� Denise.|
+039362|fr|fr|wavs/common_voice_fr_18408548.wav|spectrograms\039362.npy|linear_spectrograms\039362.npy|Aimez.|
+039361|fr|fr|wavs/common_voice_fr_18408549.wav|spectrograms\039361.npy|linear_spectrograms\039361.npy|Une ̩toile au Michelin ̤a aurait ̩t̩ plus vendeur|
+039360|fr|fr|wavs/common_voice_fr_18408550.wav|spectrograms\039360.npy|linear_spectrograms\039360.npy|Dubourg rench̩rissait par les mille anecdotes de son pass̩ r̩el et fabuleux.|
+039359|fr|fr|wavs/common_voice_fr_18408551.wav|spectrograms\039359.npy|linear_spectrograms\039359.npy|Elle elle aimait.|
+039358|fr|fr|wavs/common_voice_fr_18408552.wav|spectrograms\039358.npy|linear_spectrograms\039358.npy|Le militaire ̩poussetait son pantalon blanc sur le seuil du marchand de tabac.|
+039357|fr|fr|wavs/common_voice_fr_18408553.wav|spectrograms\039357.npy|linear_spectrograms\039357.npy|Vous savez le bien commun la libre circulation des connaissances.|
+039356|fr|fr|wavs/common_voice_fr_18408554.wav|spectrograms\039356.npy|linear_spectrograms\039356.npy|De ma faute.|
+039355|fr|fr|wavs/common_voice_fr_18408555.wav|spectrograms\039355.npy|linear_spectrograms\039355.npy|Par ses bruits r̩guliers?|
+039354|fr|fr|wavs/common_voice_fr_18408557.wav|spectrograms\039354.npy|linear_spectrograms\039354.npy|En v̩rit̩ notre ��lodie est la meilleure fille que j'ai connue!|
+039353|fr|fr|wavs/common_voice_fr_18408558.wav|spectrograms\039353.npy|linear_spectrograms\039353.npy|Omer devina qu'elle s'attendrissait au souvenir de jadis.|
+039352|fr|fr|wavs/common_voice_fr_18408559.wav|spectrograms\039352.npy|linear_spectrograms\039352.npy|Il est aim̩.|
+039351|fr|fr|wavs/common_voice_fr_18408560.wav|spectrograms\039351.npy|linear_spectrograms\039351.npy|Disons que vous serez encore plus li̩e demain.|
+039350|fr|fr|wavs/common_voice_fr_18408562.wav|spectrograms\039350.npy|linear_spectrograms\039350.npy|Ne pas traverser la route.|

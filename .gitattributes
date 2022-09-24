@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+css_comvoi/linear_spectrograms/*.npy filter=lfs diff=lfs merge=lfs -text
+css_comvoi/spectrograms/*.npy filter=lfs diff=lfs merge=lfs -text
+css_comvoi/wavs/*.wav filter=lfs diff=lfs merge=lfs -text
